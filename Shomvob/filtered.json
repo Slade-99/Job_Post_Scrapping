@@ -1,0 +1,161 @@
+[
+  {
+    "title": "Digital Marketing",
+    "deadline": "",
+    "link": "https://app.shomvob.co/single-job-description/?id=18742",
+    "page": 2,
+    "_heuristic": {
+      "keyword_hits": [],
+      "fuzzy_score": 88.23529411764706,
+      "fuzzy_kw": "Digital Marketing",
+      "combined_score": 0.265
+    }
+  },
+  {
+    "title": "Graphics Designer",
+    "deadline": "",
+    "link": "https://app.shomvob.co/single-job-description/?id=18692",
+    "page": 5,
+    "_heuristic": {
+      "keyword_hits": [],
+      "fuzzy_score": 88.23529411764706,
+      "fuzzy_kw": "Graphics Designer",
+      "combined_score": 0.265
+    }
+  },
+  {
+    "title": "Call Center Agent (CSR)",
+    "deadline": "",
+    "link": "https://app.shomvob.co/single-job-description/?id=18615",
+    "page": 8,
+    "_heuristic": {
+      "keyword_hits": [],
+      "fuzzy_score": 73.6842105263158,
+      "fuzzy_kw": "Call Center Agent",
+      "combined_score": 0.221
+    }
+  },
+  {
+    "title": "Web & Software Developer",
+    "deadline": "",
+    "link": "https://app.shomvob.co/single-job-description/?id=18513",
+    "page": 11,
+    "_heuristic": {
+      "keyword_hits": [
+        "software",
+        "developer"
+      ],
+      "fuzzy_score": 100.0,
+      "fuzzy_kw": "software",
+      "combined_score": 1.0
+    }
+  },
+  {
+    "title": "Digital Marketer",
+    "deadline": "",
+    "link": "https://app.shomvob.co/single-job-description/?id=18391",
+    "page": 13,
+    "_heuristic": {
+      "keyword_hits": [],
+      "fuzzy_score": 72.72727272727272,
+      "fuzzy_kw": "Digital Marketing",
+      "combined_score": 0.218
+    }
+  },
+  {
+    "title": "Customer Support Officer",
+    "deadline": "",
+    "link": "https://app.shomvob.co/single-job-description/?id=18344",
+    "page": 14,
+    "_heuristic": {
+      "keyword_hits": [],
+      "fuzzy_score": 70.0,
+      "fuzzy_kw": "Customer Support",
+      "combined_score": 0.21
+    }
+  },
+  {
+    "title": "Graphic Designer",
+    "deadline": "",
+    "link": "https://app.shomvob.co/single-job-description/?id=18364",
+    "page": 16,
+    "_heuristic": {
+      "keyword_hits": [],
+      "fuzzy_score": 84.84848484848484,
+      "fuzzy_kw": "Graphics Designer",
+      "combined_score": 0.255
+    }
+  },
+  {
+    "title": "Social Media Manager",
+    "deadline": "",
+    "link": "https://app.shomvob.co/single-job-description/?id=18227",
+    "page": 19,
+    "_heuristic": {
+      "keyword_hits": [],
+      "fuzzy_score": 85.0,
+      "fuzzy_kw": "Social Media Manager",
+      "combined_score": 0.255
+    }
+  },
+  {
+    "title": "Video Editor",
+    "deadline": "",
+    "link": "https://app.shomvob.co/single-job-description/?id=18228",
+    "page": 19,
+    "_heuristic": {
+      "keyword_hits": [],
+      "fuzzy_score": 83.33333333333333,
+      "fuzzy_kw": "Video Editor",
+      "combined_score": 0.25
+    }
+  },
+  {
+    "title": "Graphic Designer",
+    "deadline": "",
+    "link": "https://app.shomvob.co/single-job-description/?id=18229",
+    "page": 21,
+    "_heuristic": {
+      "keyword_hits": [],
+      "fuzzy_score": 84.84848484848484,
+      "fuzzy_kw": "Graphics Designer",
+      "combined_score": 0.255
+    }
+  },
+  {
+    "title": "Computer Operator",
+    "deadline": "",
+    "link": "https://app.shomvob.co/single-job-description/?id=18631",
+    "page": 21,
+    "_heuristic": {
+      "keyword_hits": [],
+      "fuzzy_score": 88.23529411764706,
+      "fuzzy_kw": "Computer Operator",
+      "combined_score": 0.265
+    }
+  },
+  {
+    "title": "IT Engineer",
+    "deadline": "",
+    "link": "https://app.shomvob.co/single-job-description/?id=18207",
+    "page": 21,
+    "_heuristic": {
+      "keyword_hits": [],
+      "fuzzy_score": 72.72727272727272,
+      "fuzzy_kw": " QA Engineer",
+      "combined_score": 0.218
+    }
+  },
+  {
+    "title": "Consultant",
+    "deadline": "",
+    "link": "https://app.shomvob.co/single-job-description/?id=18133",
+    "page": 22,
+    "_heuristic": {
+      "keyword_hits": [],
+      "fuzzy_score": 78.26086956521739,
+      "fuzzy_kw": " IT Consultant",
+      "combined_score": 0.235
+    }
+  }
+]
