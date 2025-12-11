@@ -83,7 +83,7 @@ Modify scraping depth:
 
 ```python
 # Scrape more or fewer pages from Shomvob
-all_shomvob_candidates = somvob_link_scrapper.scrape_shomvob_pagination(max_pages=22)
+all_shomvob_candidates = somvob_link_scrapper.scrape_shomvob_pagination(max_pages=6)
 ```
 
 ---

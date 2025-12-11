@@ -9492,5 +9492,3537 @@
             "Canva"
         ],
         "category": "Marketing & Content"
+    },
+    {
+        "title": "Backend Engineer (Node.js)",
+        "company_name": "Taghyeer Technologies",
+        "deadline": "Deadline:10 Dec2025",
+        "url": "https://jobs.bdjobs.com/jobdetails/?id=1436779&fcatId=8&ln=1",
+        "responsibilities": [],
+        "employment_status": "Full Time",
+        "education": [
+            "Bachelor of Science (BSc) in Computer Science & Engineering"
+        ],
+        "experience": [
+            "At least 1 year",
+            "At least 1 year",
+            "The applicants should have experience in the following business area(s): Software Company, Financial Technology (Fintech) Startup"
+        ],
+        "additional_requirements": [
+            "Age 22 to 35 years"
+        ],
+        "vacancy": "Not specified",
+        "location": "Location: Dhaka",
+        "age": "22 to 35 years",
+        "salary": "Tk. 40000 - 80000 (Monthly)",
+        "other_benefits": [
+            "Performance bonus,Weekly 2 holidays",
+            "Lunch Facilities: Partially Subsidize",
+            "Salary Review: Half Yearly",
+            "Festival Bonus: 2"
+        ],
+        "published": "05 Dec 2025",
+        "skills": [
+            "Apache Kafka",
+            "AWS",
+            "DevOps",
+            "ExpressJS",
+            "Microservice Architecture",
+            "NestJS",
+            "Socket.io"
+        ],
+        "category": "Software Engineering"
+    },
+    {
+        "title": "Laravel Developer",
+        "company_name": "Webase Solutions",
+        "deadline": "Deadline:15 Dec2025",
+        "url": "https://jobs.bdjobs.com/jobdetails/?id=1438575&fcatId=8&ln=1",
+        "responsibilities": [
+            "Develop server-side applications, APIs, and databases using PHP (Laravel)",
+            "Build and maintain scalable and secure web applications.",
+            "Ensure optimal performance, security, and scalability of applications.",
+            "Design and implement responsive, user-friendly interfaces using React.",
+            "Write clean, maintainable, and efficient code.",
+            "Develop RESTful APIs and implement secure server-side logic.",
+            "Optimize databases (MySQL) and write efficient SQL queries.",
+            "Participate in code reviews and work in an Agile environment.",
+            "Manage backend tasks, including integrating Python with Laravel for enhanced functionality.",
+            "Handle backend services like WebRTC, webhooks, and websockets."
+        ],
+        "employment_status": "Full Time",
+        "education": [
+            "Bachelor/Honors"
+        ],
+        "experience": [
+            "2 to 5 years",
+            "2 to 5 years",
+            "The applicants should have experience in the following business area(s): Software Company"
+        ],
+        "additional_requirements": [
+            "Age 21 to 35 years",
+            "Experience with Map API integration: Google Maps API, Leaflet, OpenStreetMap.",
+            "Strong experience with PHP (Laravel), JavaScript (React), and Python.",
+            "Experience with REST APIs, MVC architecture, and backend systems.",
+            "MySQL, MongoDB, Mongoose.",
+            "Git, GitHub, Webpack, NPM.",
+            "Familiarity with Firebase, third-party APIs, and jQuery plugins (e.g., Datatable, Dropzone, Select2).",
+            "Proficiency in HTML, CSS, Bootstrap, and React."
+        ],
+        "vacancy": "Not specified",
+        "location": "Location: Dhaka (Mohammadpur, Moham...",
+        "age": "21 to 35 years",
+        "salary": "Tk. 40000 - 50000 (Monthly)",
+        "other_benefits": [
+            "Lunch Facilities: Full Subsidize",
+            "Salary Review: Yearly",
+            "Festival Bonus: 2"
+        ],
+        "published": "10 Dec 2025",
+        "skills": [],
+        "category": "Software Engineering"
+    },
+    {
+        "title": "Mobile App Developer - Flight-Booking Platform (Dhaka)",
+        "company_name": "Dhaka Popular Travel Ltd",
+        "deadline": "Deadline:25 Dec2025",
+        "url": "https://jobs.bdjobs.com/jobdetails/?id=1438528&fcatId=8&ln=1",
+        "responsibilities": [
+            "Design, develop, test, and maintain mobile applications (Android and/or iOS) from concept to deployment and support.",
+            "Collaborate with product managers, backend developers and UI/UX designers to define app features, user flows and data integration.",
+            "Implement flight-search, booking, payment gateway, ticket issuance, user authentication, and other booking workflows.",
+            "Integrate RESTful APIs (or other services) for flight inventory, payment, notifications and user management.",
+            "Ensure performance, security, responsiveness and compliance with App Store / Google Play guidelines.",
+            "Perform testing (unit, integration, UI), bug fixing and continuous improvement; provide documentation and deployment support.",
+            "Collaborate with teammates across backend, QA, design to align on sprint goals and product roadmap."
+        ],
+        "employment_status": "Not found",
+        "education": [
+            "Bachelor of Science (BSc)",
+            "Bachelor’s degree in Computer Science, Software Engineering or a related field (or equivalent proven experience)."
+        ],
+        "experience": [
+            "At least 1 year",
+            "At least 1 year",
+            "The applicants should have experience in the following business area(s): Travel Agent, Tour Operator, Call Center",
+            "Freshers are also encouraged to apply."
+        ],
+        "additional_requirements": [
+            "Minimum 2–4 years of hands-on experience as a Mobile App Developer (native Android/iOS or cross-platform frameworks such as Flutter / React Native / hybrid) with released apps in production.",
+            "Strong proficiency in mobile programming languages — e.g. Kotlin/Java (Android), Swift/Objective-C (iOS), or JS/TypeScript for cross-platform (Flutter / React Native).",
+            "Solid understanding of OOP, data structures, UI/UX principles, asynchronous programming, API integration and mobile app architecture.",
+            "Prior experience building or working on booking/reservation/payment-oriented applications (travel, ticketing, e-commerce, booking engines) — preferred.",
+            "Good communication skills (English and Bengali), ability to work in a team, attention to detail, problem-solving mindset and adherence to deadlines."
+        ],
+        "vacancy": "Not specified",
+        "location": "Location: Dhaka",
+        "age": "Not found",
+        "salary": "Negotiable",
+        "other_benefits": [
+            "Salary Review: Half Yearly",
+            "Festival Bonus: 2"
+        ],
+        "published": "10 Dec 2025",
+        "skills": [],
+        "category": "Software Engineering"
+    },
+    {
+        "title": "Backend Developer (Mid-to-Senior)",
+        "company_name": "Bijoy Online Limited",
+        "deadline": "Deadline:9 Jan2026",
+        "url": "https://jobs.bdjobs.com/jobdetails/?id=1438556&fcatId=8&ln=1",
+        "responsibilities": [
+            "Design and implement secure and scalable APIs using Node.js (Express or NestJS).",
+            "CRITICAL FOCUS: Integrate local and international Payment Gateways to handle recurring billing, invoicing, and complex payment reconciliation logic.",
+            "Develop robust server logic for ISP subscriber management and automated billing cycles.",
+            "Design and maintain database schemas (SQL or NoSQL) ensuring data integrity and performance.",
+            "Implement security protocols and data protection measures for all transaction data."
+        ],
+        "employment_status": "Only Male",
+        "education": [
+            "Master of Science (MSc)",
+            "CSC"
+        ],
+        "experience": [
+            "2 to 6 years",
+            "2 to 6 years",
+            "The applicants should have experience in the following business area(s): IT Enabled Service"
+        ],
+        "additional_requirements": [
+            "3+ years of professional backend development experience.",
+            "Proven track record integrating Payment Gateways (e.g. SSLCommerz, BKash, Nagad or similar local providers).",
+            "Strong understanding of Billing Logic (managing invoices, ledgers, and recurring payment schedules).",
+            "Proficiency in database management (PostgreSQL, MySQL, or MongoDB).",
+            "Experience with API security standards (e.g., JWT, OAuth).",
+            "Experience implementing automated unit and integration tests (e.g., Mocha, Jest for Node.js).",
+            "Familiarity with containerization (Docker) and deployment to cloud environments (AWS, GCP, or Azure).",
+            "Strong understanding of database optimization, indexing, and transaction management."
+        ],
+        "vacancy": "Not specified",
+        "location": "Location: Dhaka (Banani)",
+        "age": "Not found",
+        "salary": "Negotiable",
+        "other_benefits": [],
+        "published": "10 Dec 2025",
+        "skills": [],
+        "category": "Software Engineering"
+    },
+    {
+        "title": "AI Engineer",
+        "company_name": "One Information and Communications Technology Ltd",
+        "deadline": "Deadline:9 Jan2026",
+        "url": "https://jobs.bdjobs.com/jobdetails/?id=1438541&fcatId=8&ln=1",
+        "responsibilities": [
+            "Architect, deploy, and maintain LLM inference and RAG systems designed for high concurrency and horizontal scaling.",
+            "Build and optimize context management and memory systems to reduce token usage and improve performance.",
+            "Develop and tune fine-tuning pipelines, including LoRA, QLoRA, PEFT, DPO, and quantization.",
+            "Create clean, responsive frontend interfaces for AI-first applications.",
+            "Manage and optimize Linux-based production environments with strong performance and reliability.",
+            "Apply best practices in distributed systems, including caching, shading, load balancing, and autoscaling.",
+            "Collaborate with research and product teams to translate needs into robust LLM-driven solutions.",
+            "Develop, train, and deploy machine learning and deep learning models for business applications.",
+            "Analyze large datasets to extract insights and improve decision-making processes.",
+            "Design and implement end-to-end AI solutions from data preprocessing to production deployment.",
+            "Collaborate with software, data, and product teams to integrate AI models into existing systems.",
+            "Optimize model performance, accuracy, and scalability using industry-standard tools and framework",
+            "Any others task assigned by HoD."
+        ],
+        "employment_status": "Not found",
+        "education": [
+            "Bachelor of Science (BSc) in Computer Science & Engineering"
+        ],
+        "experience": [
+            "2 to 6 years",
+            "2 to 6 years",
+            "The applicants should have experience in the following business area(s): Software Company, IT Enabled Service"
+        ],
+        "additional_requirements": [
+            "Age 25 to 35 years",
+            "Ollama, Advanced Transformation architecture, Linux Server programming, Langchain."
+        ],
+        "vacancy": "Not specified",
+        "location": "Location: Dhaka",
+        "age": "25 to 35 years",
+        "salary": "Negotiable",
+        "other_benefits": [
+            "Mobile bill,Weekly 2 holidays",
+            "Lunch Facilities: Partially Subsidize",
+            "Salary Review: Yearly",
+            "Festival Bonus: 2"
+        ],
+        "published": "10 Dec 2025",
+        "skills": [],
+        "category": "Data & AI"
+    },
+    {
+        "title": "Frontend Developer (Mid-to-Senior)",
+        "company_name": "Bijoy Online Limited",
+        "deadline": "Deadline:9 Jan2026",
+        "url": "https://jobs.bdjobs.com/jobdetails/?id=1438544&fcatId=8&ln=1",
+        "responsibilities": [
+            "Develop user-facing features and components using Next.js and React.",
+            "Build reusable code and component libraries for future application use.",
+            "Translate designs and wireframes into high-quality code, ensuring pixel-perfect implementation with Tailwind CSS.",
+            "Optimize applications for maximum speed and scalability, paying close attention to core web vitals.",
+            "Collaborate closely with the backend team to integrate APIs efficiently."
+        ],
+        "employment_status": "Contractual",
+        "education": [
+            "Master of Science (MSc)"
+        ],
+        "experience": [
+            "2 to 5 years",
+            "2 to 5 years",
+            "The applicants should have experience in the following business area(s): Developer"
+        ],
+        "additional_requirements": [
+            "3+ years of professional experience in frontend development.",
+            "Strong proficiency in JavaScript (ES6+), TypeScript, and the React ecosystem.",
+            "Deep understanding of Next.js (SSR/SSG) and optimization techniques.",
+            "Expertise in Tailwind CSS for building responsive and maintainable user interfaces.",
+            "Experience with modern state management solutions (e.g., Redux, or Context API).",
+            "Experience with unit and integration testing (e.g., Jest, React Testing Library, Cypress).",
+            "Practical experience consuming RESTful and/or GraphQL APIs"
+        ],
+        "vacancy": "Not specified",
+        "location": "Location: Dhaka (Banani)",
+        "age": "Not found",
+        "salary": "Negotiable",
+        "other_benefits": [
+            "Salary Review: Yearly",
+            "Lunch Facilities: Partially Subsidize"
+        ],
+        "published": "10 Dec 2025",
+        "skills": [
+            "Billing Software",
+            "Next.js",
+            "react",
+            "Security Management",
+            "Tailwind CSS",
+            "TypeScript"
+        ],
+        "category": "Software Engineering"
+    },
+    {
+        "title": "IT Incharge",
+        "company_name": "Bay Footwear Limited",
+        "deadline": "Deadline:9 Jan2026",
+        "url": "https://jobs.bdjobs.com/jobdetails/?id=1438458&fcatId=8&ln=1",
+        "responsibilities": [
+            "Participating in discussions to understand the specific requirements of different departments.",
+            "Creating a technology roadmap that outlines the strategic direction for IT initiatives",
+            "Evaluating vendors, hardware and software options, taking into account factors like cost, compatibility and support.",
+            "Assigning tasks, setting priorities and overseeing daily operations.",
+            "Managing the IT budget and allocating resources for various projects and operational needs.",
+            "Daily maintenance and troubleshooting of IT systems.",
+            "Setting and monitoring Service Level Agreements (SLAs) for IT support to ensure timely response and issue resolution and maintain high service availability.",
+            "Implementing and managing security measures to protect the organization’s IT systems and data",
+            "Performing regular risk assessments and implementing disaster recovery plans.",
+            "Maintaining relationships with technology vendors and service providers",
+            "Collaborating with department heads and senior management and gathering feedback."
+        ],
+        "employment_status": "Not found",
+        "education": [
+            "Bachelor of Computer Application (BCA)"
+        ],
+        "experience": [
+            "Age At most 35 years"
+        ],
+        "additional_requirements": [],
+        "vacancy": "Not specified",
+        "location": "Location: Gazipur",
+        "age": "At most 35 years",
+        "salary": "Negotiable",
+        "other_benefits": [],
+        "published": "10 Dec 2025",
+        "skills": [],
+        "category": "Management & Product"
+    },
+    {
+        "title": "Senior Mobile Apps Developer",
+        "company_name": "One Information and Communications Technology Ltd",
+        "deadline": "Deadline:9 Jan2026",
+        "url": "https://jobs.bdjobs.com/jobdetails/?id=1438526&fcatId=8&ln=1",
+        "responsibilities": [
+            "Develop, test, and maintain Android/iOS mobile applications.",
+            "Build applications using JAVA/ Kotlin/ Flutter / React Native / Swift.",
+            "Integrate apps with RESTful APIs, Firebase, authentication, and backend services.",
+            "Collaborate with UI/UX designers to convert designs into functional screens.",
+            "Troubleshoot, debug, and optimize mobile application performance.",
+            "Maintain existing apps and add new features as needed.",
+            "Participate in code reviews and ensure clean, maintainable code.",
+            "Work closely with the backend and QA teams for timely delivery.",
+            "Architect, build and maintain excellent React Native, Flutter applications with clean and efficient code.",
+            "Design and implement complex mobile applications.",
+            "Keep up-to-date with new mobile technologies and best practices",
+            "Any Other task assigned by HOD"
+        ],
+        "employment_status": "Not found",
+        "education": [
+            "Bachelor of Science (BSc) in Computer Science & Engineering"
+        ],
+        "experience": [
+            "3 to 6 years",
+            "3 to 6 years",
+            "The applicants should have experience in the following business area(s): Software Company, IT Enabled Service"
+        ],
+        "additional_requirements": [
+            "Age 25 to 35 years",
+            "Android Studio/Xcode/VS Code/ Git Hub experience person will get preferable."
+        ],
+        "vacancy": "Not specified",
+        "location": "Location: Dhaka",
+        "age": "25 to 35 years",
+        "salary": "Negotiable",
+        "other_benefits": [
+            "Mobile bill,Weekly 2 holidays",
+            "Lunch Facilities: Partially Subsidize",
+            "Salary Review: Yearly",
+            "Festival Bonus: 2"
+        ],
+        "published": "10 Dec 2025",
+        "skills": [
+            "Android Studio",
+            "Mobile apps developer",
+            "Mobile apps Developer (iOS)",
+            "React Native"
+        ],
+        "category": "Software Engineering"
+    },
+    {
+        "title": "Executive - IT",
+        "company_name": "Akashbari Holidays",
+        "deadline": "Deadline:25 Dec2025",
+        "url": "https://jobs.bdjobs.com/jobdetails/?id=1438365&fcatId=8&ln=1",
+        "responsibilities": [
+            "Provide daily IT support for computers, printers, networks, and software.",
+            "Troubleshoot hardware/software issues and ensure smooth office IT operations.",
+            "Manage and update company website, online portals, and digital content.",
+            "Assist in managing OTA platforms if require",
+            "Maintain office network (LAN, WiFi, routers, switches).",
+            "Ensure data backup, antivirus, and cybersecurity measures.",
+            "Maintain IT asset inventory and documentation."
+        ],
+        "employment_status": "Only Male",
+        "education": [
+            "Bachelor of Science (BSc) in Computer Science & Engineering",
+            "Diploma in Computer"
+        ],
+        "experience": [
+            "3 to 5 years",
+            "3 to 5 years",
+            "The applicants should have experience in the following business area(s): Travel Agent, Immigration and Education Consultancy Service"
+        ],
+        "additional_requirements": [
+            "Age 24 to 32 years",
+            "Basic website management (WordPress/HTML) is an added advantage."
+        ],
+        "vacancy": "Not specified",
+        "location": "Location: Dhaka (Banani)",
+        "age": "24 to 32 years",
+        "salary": "Negotiable",
+        "other_benefits": [],
+        "published": "10 Dec 2025",
+        "skills": [],
+        "category": "Other / Uncategorized"
+    },
+    {
+        "title": "Sr. / Lead Engineer (Android)",
+        "company_name": "Zara Zaman Technology Ltd.",
+        "deadline": "Deadline:18 Dec2025",
+        "url": "https://jobs.bdjobs.com/jobdetails/?id=1438410&fcatId=8&ln=1",
+        "responsibilities": [
+            "Creating and maintaining Android applications that are high-quality, efficient, and scalable.",
+            "Collaborating with cross-functional teams to create new features.",
+            "Ensuring the performance, quality, and responsiveness of applications.",
+            "Identifying and resolving bugs and performance bottlenecks.",
+            "Conducting code reviews, maintaining code quality, and ensuring adherence to coding standards.",
+            "Implementing and integrating APIs and third-party libraries.",
+            "Participating in the entire Android development lifecycle, including planning, testing, and deploying applications.",
+            "Providing technical guidance and support to other team members.",
+            "Mobile and Wearable Software Development using Android and Wear OS dev stack.",
+            "Document code review consistently throughout the development process.",
+            "Research and code with new tools, libraries, APIs and frameworks.",
+            "Help in software stabilization and bug fixing during QA phase."
+        ],
+        "employment_status": "Not found",
+        "education": [
+            "Bachelor of Science (BSc) in Computer Science & Engineering",
+            "Bachelor of Science (BSc) in Computing & Information System",
+            "Master of Science (MSc) in Computer Science & Engineering"
+        ],
+        "experience": [
+            "At least 3 years",
+            "At least 3 years",
+            "The applicants should have experience in the following business area(s): IT Enabled Service"
+        ],
+        "additional_requirements": [
+            "Age At least 26 years",
+            "Strong proficiency in Java, JavaScript.",
+            "In-depth knowledge of Android SDK, Android Studio, and other various tools.",
+            "Experience developing and publishing Android applications on the Google Play Store.",
+            "Familiarity with RESTful APIs, JSON, and web services integration.",
+            "An understanding of mobile UI and UX principles and design patterns.",
+            "Understanding of business requirements and methods of turning them into clear, specific technical requirements.",
+            "Understanding of Google’s Android design principles and interface guidelines.",
+            "Familiar with the Android ecosystem and available libraries."
+        ],
+        "vacancy": "Not specified",
+        "location": "Location: Dhaka",
+        "age": "At least 26 years",
+        "salary": "Negotiable",
+        "other_benefits": [
+            "T/A,Mobile bill"
+        ],
+        "published": "10 Dec 2025",
+        "skills": [],
+        "category": "Software Engineering"
+    },
+    {
+        "title": "IT Intern",
+        "company_name": "PalmPay Limited",
+        "deadline": "Deadline:9 Jan2026",
+        "url": "https://jobs.bdjobs.com/jobdetails/?id=1438416&fcatId=8&ln=1",
+        "responsibilities": [
+            "Assist in diagnosing and resolving basic hardware and software issues",
+            "Support employees with computer, network, and login-related problems",
+            "Install, update, and configure software applications as required",
+            "Support routine maintenance of IT systems, networks, laptops, and peripheral devices",
+            "Assist in monitoring system performance and reporting issues",
+            "Help maintain IT documentation, inventory, and device tracking",
+            "Assist in implementing basic IT security measures",
+            "Support the team in data backup, antivirus monitoring, and access control activities",
+            "Help set up workstations for new employees",
+            "Assist during IT audits, equipment setup, and system rollouts",
+            "Perform any other tasks assigned by the IT Supervisor/Manager"
+        ],
+        "employment_status": "Dhaka",
+        "education": [
+            "Bachelor/Honors",
+            "Bachelor’s degree (Completed all the courses) in CSE, IT, EEE, or a related field"
+        ],
+        "experience": [
+            "Age At least 21 years",
+            "Basic understanding of computer hardware, operating systems, and networking",
+            "Familiarity with Windows OS, MS Office, Google Workspace, and basic troubleshooting",
+            "Strong problem-solving skills and eagerness to learn",
+            "Good communication skills and the ability to work in a team."
+        ],
+        "additional_requirements": [],
+        "vacancy": "Not specified",
+        "location": "Location: Dhaka",
+        "age": "At least 21 years",
+        "salary": "Negotiable",
+        "other_benefits": [],
+        "published": "10 Dec 2025",
+        "skills": [
+            "Computer Hardware Troubleshooting",
+            "Computer Troubleshooting",
+            "Hardware & Networking",
+            "IT Support Service",
+            "IT Troubleshooting",
+            "Quality assurance and control"
+        ],
+        "category": "Management & Product"
+    },
+    {
+        "title": "Customer Care Representative",
+        "company_name": "Next Online Sylhet",
+        "deadline": "Deadline:12 Dec2025",
+        "url": "https://jobs.bdjobs.com/jobdetails/?id=1438360&fcatId=8&ln=1",
+        "responsibilities": [
+            "গ্রাহকের কল রিসিভ ও সমস্যা শোনা",
+            "সঠিক তথ্য ও সমাধান দেওয়া",
+            "সিস্টেমে তথ্য এন্ট্রি করা",
+            "প্রয়োজন হলে বিষয়টি অন্য টিমে পাঠানো",
+            "ভদ্র ও পেশাদার আচরণ বজায় রাখা",
+            "দৈনিক রিপোর্ট ও ফলো-আপ করা"
+        ],
+        "employment_status": "Only Female",
+        "education": [
+            "Secondary"
+        ],
+        "experience": [
+            "Age 18 to 25 years"
+        ],
+        "additional_requirements": [],
+        "vacancy": "Not specified",
+        "location": "Location: Sylhet (South Shurma, Syl...",
+        "age": "18 to 25 years",
+        "salary": "Tk. 5000 - 8000 (Monthly)",
+        "other_benefits": [],
+        "published": "10 Dec 2025",
+        "skills": [],
+        "category": "Management & Product"
+    },
+    {
+        "title": "Lecturer, Dept of CSE",
+        "company_name": "University of Science and Technology Chittagong (USTC)",
+        "deadline": "Deadline:8 Jan2026",
+        "url": "https://jobs.bdjobs.com/jobdetails/?id=1438382&fcatId=8&ln=1",
+        "responsibilities": [
+            "Teaching Undergraduate and Graduate courses as per USTC rules;",
+            "Undertaking research, organise workshops in the Faculty;",
+            "Maintaining documentation as per requirement of UGC, BAC etc;",
+            "Preparing course outline, lesson plan, lecture materials, tutorial and schedule for students and conduct theoretical, tutorial and lab classes, extension teaching, related research and cooperative field experience;",
+            "Conducting Examinations and related tasks;",
+            "Guiding and supervising project work, internship, dissertation or thesis;",
+            "Guiding and supervising students to perform co-curricular and extracurricular activities;",
+            "Carrying out administrative tasks assigned by the Authority time to time;",
+            "Conducting research and experiments to advance knowledge in the concerned fields with publications."
+        ],
+        "employment_status": "Not found",
+        "education": [
+            "Bachelor/Honors",
+            "Masters",
+            "Honors and Master Degree in respective discipline with minimum 3 (Three) first division/class as per UGC guidelines",
+            "Experience: Candidates having experience and publication will be given preference"
+        ],
+        "experience": [],
+        "additional_requirements": [],
+        "vacancy": "Not specified",
+        "location": "Location: Chattogram",
+        "age": "Not found",
+        "salary": "Negotiable",
+        "other_benefits": [],
+        "published": "10 Dec 2025",
+        "skills": [],
+        "category": "Other / Uncategorized"
+    },
+    {
+        "title": "Senior UI / UX Designer",
+        "company_name": "Softrobotics Bangladesh Limited",
+        "deadline": "Deadline:19 Dec2025",
+        "url": "https://jobs.bdjobs.com/jobdetails/?id=1438399&fcatId=8&ln=1",
+        "responsibilities": [
+            "Lead end-to-end UI/UX design for websites, web applications, and mobile apps.",
+            "Conduct user research, persona development, and user journey mapping.",
+            "Create wireframes, high-fidelity UI designs, and interactive prototypes using Figma.",
+            "Develop and maintain scalable design systems and component libraries.",
+            "Ensure responsive design across desktop, tablet, and mobile devices.",
+            "Apply WCAG / accessibility standards in all designs.",
+            "Collaborate closely with frontend developers, product managers, and stakeholders.",
+            "Prepare developer-ready design specifications and assets for smooth handoff.",
+            "Optimize designs for usability, performance, and conversion.",
+            "Present design concepts confidently to clients and internal teams.",
+            "Review and mentor junior designers to maintain high design quality."
+        ],
+        "employment_status": "Chattogram, Dhaka",
+        "education": [
+            "Bachelor of Science (BSc) in Computer Science & Engineering"
+        ],
+        "experience": [
+            "5 to 8 years",
+            "5 to 8 years"
+        ],
+        "additional_requirements": [
+            "Age 25 to 35 years",
+            "5–8+ years of professional experience in UI/UX design.",
+            "Expert-level proficiency in Figma (mandatory).",
+            "Strong knowledge of:\nTypography, color theory, layout, and spacing\nUser-centered design principles\nInformation Architecture (IA) and usability testing",
+            "Typography, color theory, layout, and spacing",
+            "User-centered design principles",
+            "Information Architecture (IA) and usability testing",
+            "Proven experience designing:\nCorporate websites\nSaaS platforms and dashboards\nEnterprise or fintech products (preferred)",
+            "Corporate websites",
+            "SaaS platforms and dashboards",
+            "Enterprise or fintech products (preferred)",
+            "Solid understanding of responsive web design and basic HTML/CSS concepts.",
+            "Experience working with agile / scrum development teams.",
+            "Strong communication, presentation, and problem-solving skills.",
+            "A strong portfolio with real, live projects.",
+            "Motion design (Lottie, After Effects)",
+            "Webflow / No-code tools",
+            "CRO & A/B testing experience",
+            "Knowledge of design tokens and advanced prototyping tools"
+        ],
+        "vacancy": "Not specified",
+        "location": "Location: Chattogram, Dhaka",
+        "age": "25 to 35 years",
+        "salary": "Negotiable",
+        "other_benefits": [],
+        "published": "10 Dec 2025",
+        "skills": [],
+        "category": "Design & Creative"
+    },
+    {
+        "title": "Client & Vendor Manager",
+        "company_name": "Nexaura Tech",
+        "deadline": "Deadline:21 Dec2025",
+        "url": "https://jobs.bdjobs.com/jobdetails/?id=1438371&fcatId=8&ln=1",
+        "responsibilities": [
+            "Develop and nurture long-term relationships with clients in the Property Preservation & Maintenance sector.",
+            "Manage the full client & vendor onboarding process and ensure smooth workflow throughout each project.",
+            "Perform daily tasks and updates using the PPW system.",
+            "Grow the client & vendor base through smart negotiation and strategic business development",
+            "Maintain client satisfaction and address concerns promptly by keeping the vendors fully active and dedicated."
+        ],
+        "employment_status": "Not found",
+        "education": [
+            "Bachelor/Honors",
+            "Bachelor’s Degree from any recognized university"
+        ],
+        "experience": [
+            "1 to 3 years",
+            "1 to 3 years",
+            "The applicants should have experience in the following business area(s): IT Enabled Service"
+        ],
+        "additional_requirements": [
+            "At least 1–3 years of experience as a Client Manager/Vendor Manager in Property Preservation & Maintenance.",
+            "Maintenance and Commercial experts will get preference.",
+            "Strong English communication and presentation skills (IELTS 6.5 is an advantage)",
+            "Tech-friendly, attentive to detail, and target-oriented. Higher typing speed will provide extra advantage.",
+            "Excellent negotiation, analytical thinking, and client-handling abilities.",
+            "Strong command of spoken and written English with good punctuation and analytical skills",
+            "North American accent is a plus, but not essential",
+            "Capable of handling tasks in a dynamic and fast-moving environment",
+            "Responsible, proactive, and committed to meeting deadlines"
+        ],
+        "vacancy": "Not specified",
+        "location": "Location: Dhaka (ECB Chottor)",
+        "age": "Not found",
+        "salary": "Negotiable",
+        "other_benefits": [
+            "Weekly 2 holidays,Profit share",
+            "Salary Review: Yearly",
+            "Festival Bonus: 2"
+        ],
+        "published": "10 Dec 2025",
+        "skills": [],
+        "category": "Management & Product"
+    },
+    {
+        "title": "Software Developer",
+        "company_name": "Naturo",
+        "deadline": "Deadline:20 Dec2025",
+        "url": "https://jobs.bdjobs.com/jobdetails/?id=1438387&fcatId=8&ln=1",
+        "responsibilities": [
+            "Build and maintain our frontend using Next.js",
+            "Develop reusable UI components with Shadcn",
+            "Manage application state with Redux",
+            "Integrate APIs and build data-driven interfaces",
+            "Improve performance and user experience",
+            "Handle small backend tasks using Node.js when needed"
+        ],
+        "employment_status": "Full Time",
+        "education": [
+            "Bachelor/Honors"
+        ],
+        "experience": [
+            "1 to 2 years",
+            "1 to 2 years",
+            "The applicants should have experience in the following business area(s): Software Company, E-commerce, E-commerce Startup, F-commerce"
+        ],
+        "additional_requirements": [
+            "Age 25 to 35 years",
+            "Strong skills in Next.js and React",
+            "Good understanding of Redux",
+            "Experience with Shadcn or similar component libraries",
+            "Ability to write clean, organised, maintainable code",
+            "Experience working with REST APIs",
+            "Bonus: Hands-on experience with Node.js",
+            "Comfortable with Tailwind CSS",
+            "Familiar with authentication tools (NextAuth, JWT)",
+            "Solid understanding of Git workflows",
+            "Problem-solving mindset",
+            "Experience working in small, fast-moving teams"
+        ],
+        "vacancy": "Not specified",
+        "location": "Location: Dhaka",
+        "age": "25 to 35 years",
+        "salary": "Negotiable",
+        "other_benefits": [
+            "Weekly 2 holidays",
+            "Lunch Facilities: Partially Subsidize",
+            "Salary Review: Yearly",
+            "Festival Bonus: 2"
+        ],
+        "published": "09 Dec 2025",
+        "skills": [],
+        "category": "Software Engineering"
+    },
+    {
+        "title": "Technical support Engineer (TSE)",
+        "company_name": "A. K. Khan Telecom Ltd.",
+        "deadline": "Deadline:16 Dec2025",
+        "url": "https://jobs.bdjobs.com/jobdetails/?id=1438328&fcatId=8&ln=1",
+        "responsibilities": [
+            "24/7 roster duty of monitoring and customer care.",
+            "Provide professional and friendly support consistently via telephone, electronic help desk, and live chat with outstanding customer service skills and a dedication to the customer service experience.",
+            "Respond promptly to customer inquiries.",
+            "Check error emails and logs, analyze and escalate the criticality to the concerned department.",
+            "Handle and resolve the customer's inquiries and support on OS, HW, and SW promptly over the telephone, issue tickets in the CRM system, and close tickets after resolving the issue.",
+            "Strong understanding of network layer & protocols, LAN, WAN, and related configurations.",
+            "Ability to face new technological challenges and willingness to enhance existing skill set.",
+            "Able to work in adverse situations.",
+            "Handle and resolve customer complaints.",
+            "Complain receive and ticketing.",
+            "Provide technical support at the user end as per requirement.",
+            "Ensure customer satisfaction regarding support & service.",
+            "Telesales/ Telemarketing.",
+            "Provide service to walk-in clients.",
+            "Customer relationship developments.",
+            "Any other task assigned by the supervisor."
+        ],
+        "employment_status": "Full Time",
+        "education": [
+            "Bachelor of Science (BSc) in Computer Science & Engineering",
+            "Bachelor of Science (BSc) in Electrical & Electronic Engineering",
+            "Training/Trade Course:"
+        ],
+        "experience": [
+            "At least 3 years",
+            "At least 3 years",
+            "The applicants should have experience in the following business area(s): Telecommunication, ISP"
+        ],
+        "additional_requirements": [
+            "Age 23 to 35 years",
+            "Have to be smart, good-looking, energetic, self-motivated, ambitious, friendly and open-minded.",
+            "Time flexibility towards shifts and roster duty as per floor requirements.",
+            "Have to have good command in English.",
+            "Need to be skilled in computer (Operating System, MS Office, Internet, etc.)",
+            "A pleasant and friendly attitude is a must.",
+            "Interpersonal skills to interact with customers and team members."
+        ],
+        "vacancy": "Not specified",
+        "location": "Location: Dhaka",
+        "age": "23 to 35 years",
+        "salary": "Negotiable",
+        "other_benefits": [],
+        "published": "09 Dec 2025",
+        "skills": [
+            "Communication"
+        ],
+        "category": "IT Support & Hardware"
+    },
+    {
+        "title": "Executive - IT",
+        "company_name": "STARDUST Telecom Limited",
+        "deadline": "Deadline:16 Dec2025",
+        "url": "https://jobs.bdjobs.com/jobdetails/?id=1438244&fcatId=8&ln=1",
+        "responsibilities": [
+            "Screen IT tickets and resolve user issues promptly and accurately.",
+            "Provide support for computers, printers, scanners, CCTV, DVR/NVR, email, PABX, and networking systems.",
+            "Diagnostic & analytical skills",
+            "Problem-solving ability",
+            "Customer service orientation",
+            "Maintain networking, hardware, software, and infrastructure systems.",
+            "Configure Mikrotik routers and manage Apple device support.",
+            "Install, support, and maintain server hardware/software.",
+            "Network & system administration skills",
+            "Hardware/software knowledge",
+            "Security awareness",
+            "Set up user accounts, permissions, and passwords.",
+            "Monitor network usage, system performance, and IT policies.",
+            "Ensure timely Windows patches and system updates.",
+            "Active Directory & user management knowledge",
+            "Attention to detail",
+            "Process discipline",
+            "Provide technical training and support to employees with varying IT knowledge levels.",
+            "Ensure smooth communication with infrastructure and application teams to deliver services on time.",
+            "Communication & presentation skills",
+            "Collaboration & teamwork",
+            "Service delivery mindset",
+            "Maintain IT asset inventory, monitoring tools, reports, and documentation.",
+            "Ensure proper communication between company and channel partners.",
+            "Documentation accuracy",
+            "Time management",
+            "Stakeholder management",
+            "Continuously upgrade professional knowledge and skill through workshops, networking, and professional societies.",
+            "Demonstrate ethical behavior, punctuality, and role-model professionalism.",
+            "Learning agility",
+            "Initiative & ownership",
+            "Leadership by example"
+        ],
+        "employment_status": "Full Time",
+        "education": [
+            "Bachelor of Science (BSc) in Computer Science & Engineering"
+        ],
+        "experience": [
+            "1 to 4 years",
+            "1 to 4 years",
+            "The applicants should have experience in the following business area(s): Telecommunication, IT Enabled Service, ISP, Group of Companies"
+        ],
+        "additional_requirements": [
+            "Professional integrity & responsibility",
+            "Ability to perform under pressure",
+            "Multitasking capability",
+            "Self-motivation, adaptability, and result orientation",
+            "Desktop/Laptop troubleshooting",
+            "Network configuration (Mikrotik/Router)",
+            "Server maintenance",
+            "IT ticketing systems",
+            "User access & security management"
+        ],
+        "vacancy": "Not specified",
+        "location": "Location: Chattogram",
+        "age": "Not found",
+        "salary": "Negotiable",
+        "other_benefits": [
+            "Mobile bill,Provident fund,Insurance,Gratuity",
+            "Lunch Facilities: Partially Subsidize",
+            "Salary Review: Yearly",
+            "Festival Bonus: 2"
+        ],
+        "published": "09 Dec 2025",
+        "skills": [],
+        "category": "Other / Uncategorized"
+    },
+    {
+        "title": "Software Development ( Intern )",
+        "company_name": "Software Lighthouse",
+        "deadline": "Deadline:19 Dec2025",
+        "url": "https://jobs.bdjobs.com/jobdetails/?id=1438195&fcatId=8&ln=1",
+        "responsibilities": [
+            "Enjoys cracking code problems,",
+            "Wants to grow alongside a driven and tight-knit team,",
+            "Believes in building clean, maintainable systems.."
+        ],
+        "employment_status": "Not found",
+        "education": [
+            "Bachelor of Science (BSc) in Computer Science",
+            "Bachelor of Science (BSc) in Computer Engineering",
+            "Bachelor of Science (BSc) in Computer Science & Engineering"
+        ],
+        "experience": [
+            "Age 19 to 25 years",
+            "Freshers are also encouraged to apply."
+        ],
+        "additional_requirements": [],
+        "vacancy": "Not specified",
+        "location": "Location: Dhaka (Uttara)",
+        "age": "19 to 25 years",
+        "salary": "Tk. 6000 - 7000 (Monthly)",
+        "other_benefits": [],
+        "published": "09 Dec 2025",
+        "skills": [
+            "algorithom",
+            "Artificial intelligence (AI)",
+            "Problem solving and decision making",
+            "Programming"
+        ],
+        "category": "Software Engineering"
+    },
+    {
+        "title": "Assistant Programmer/Software Engineer",
+        "company_name": "Giantssoft Solution",
+        "deadline": "Deadline:8 Jan2026",
+        "url": "https://jobs.bdjobs.com/jobdetails/?id=1438136&fcatId=8&ln=1",
+        "responsibilities": [
+            "Develop Applications with .NET Core , C#.NET, AJAX, HTML, CSS, JavaScript, JQuery, SQL Server.",
+            "Analyze user requirements and design and developed deliverable Application.",
+            "Review Code and business objective of Enhancement and New module tools and techniques, that assist in defining alternate solutions for business problems.",
+            "Will Get advantage if Developing cross-platform mobile applications using the Flutter framework and Dart programming language.",
+            "UI/UX Implementation: Implementing UI/UX designs and ensuring a smooth and visually appealing user experience in the mobile applications."
+        ],
+        "employment_status": "Full Time",
+        "education": [
+            "Bachelor of Science (BSc) in CSE"
+        ],
+        "experience": [
+            "At most 2 years",
+            "At most 2 years",
+            "The applicants should have experience in the following business area(s): Software Company",
+            "Freshers are also encouraged to apply."
+        ],
+        "additional_requirements": [
+            "Age 22 to 35 years",
+            "Those who participate in the ACM/ICPC Contest will get an advantage."
+        ],
+        "vacancy": "Not specified",
+        "location": "Location: Dhaka",
+        "age": "22 to 35 years",
+        "salary": "Tk. 20000 - 40000 (Monthly)",
+        "other_benefits": [
+            "Weekly 2 holidays",
+            "Lunch Facilities: Partially Subsidize",
+            "Salary Review: Yearly",
+            "Festival Bonus: 2"
+        ],
+        "published": "09 Dec 2025",
+        "skills": [],
+        "category": "Software Engineering"
+    },
+    {
+        "title": "Asst. Manager/Manager (IT)",
+        "company_name": "Maxim Label & Packaging (Bangladesh) Private Limited",
+        "deadline": "Deadline:8 Jan2026",
+        "url": "https://jobs.bdjobs.com/jobdetails/?id=1438003&fcatId=8&ln=1",
+        "responsibilities": [
+            "Install, configure, and maintain computer hardware, operating systems, and software applications.",
+            "Manage and troubleshoot LAN/WAN networks, Wi-Fi, routers, switches, and firewalls.",
+            "Provide technical support for users (on-site & remote) and resolve IT issues promptly.",
+            "Monitor system performance and ensure security, reliability, and data protection.",
+            "Maintain servers, storage systems, backup solutions, and email platforms.",
+            "Handle system updates, patch management, and antivirus administration.",
+            "Set up user accounts, permissions, and access controls following company policy.",
+            "Maintain IT asset inventory and documentation.",
+            "Support CCTV, biometric attendance systems, printers, and other IT-related equipment.",
+            "Coordinate with vendors for IT equipment procurement, repairs, and services.",
+            "Ensure compliance with IT policies, standards, and best practices.",
+            "Assist in planning and implementing new IT projects and improvements."
+        ],
+        "employment_status": "Not found",
+        "education": [
+            "Bachelor of Science (BSc)",
+            "Bachelor’s/masters degree in Computer Science & Engineering, Information Technology, Computer engineering or related field."
+        ],
+        "experience": [
+            "3 to 6 years",
+            "3 to 6 years",
+            "The applicants should have experience in the following business area(s): IT Enabled Service"
+        ],
+        "additional_requirements": [
+            "Age 25 to 40 years",
+            "Experience with ERP systems or database management.",
+            "Knowledge of virtualization (VMware/Hyper-V).",
+            "Experience with backup & disaster recovery systems.",
+            "Ability to handle multiple tasks and work under pressure.",
+            "Certification such as CCNA, MCSA, CompTIA A+/N+ is an advantage.",
+            "Strong knowledge of Windows/Linux operating systems.",
+            "Knowledge of network technologies (TCP/IP, DNS, DHCP, VPN).Experience with server management and cloud platforms (Azure, AWS, or Google Cloud is a plus).",
+            "Good understanding of cybersecurity tools and practices.",
+            "Ability to troubleshoot hardware and software issues effectively.",
+            "Strong communication and problem-solving skills."
+        ],
+        "vacancy": "Not specified",
+        "location": "Location: Dhaka (Ashulia)",
+        "age": "25 to 40 years",
+        "salary": "Negotiable",
+        "other_benefits": [
+            "Provident fund,T/A",
+            "Salary Review: Yearly",
+            "Festival Bonus: 2",
+            "Service Benefit",
+            "Annual Leave"
+        ],
+        "published": "09 Dec 2025",
+        "skills": [],
+        "category": "Management & Product"
+    },
+    {
+        "title": "Junior System Admin",
+        "company_name": "Premium Connectivity Ltd.",
+        "deadline": "Deadline:8 Jan2026",
+        "url": "https://jobs.bdjobs.com/jobdetails/?id=1438057&fcatId=8&ln=1",
+        "responsibilities": [
+            "Install, configure, maintain, and troubleshoot Linux servers (Ubuntu, Debian, CentOS/Alma Linux/Rocky Linux) and Windows Server (2016/2019/2022/2025)",
+            "Manage and administer virtualization environments:\nVMware ESXi (vSphere 6.7/7/8) – host configuration, vCenter, VM provisioning, HA/DRS, storage integration\nProxmox VE – cluster management, LXC containers, KVM VMs, Ceph storage, backups (Proxmox Backup Server)",
+            "VMware ESXi (vSphere 6.7/7/8) – host configuration, vCenter, VM provisioning, HA/DRS, storage integration",
+            "Proxmox VE – cluster management, LXC containers, KVM VMs, Ceph storage, backups (Proxmox Backup Server)",
+            "Full administration of Zimbra Collaboration Suite (Open Source or Network Edition):\nInstallation, upgrades, patching\nMailbox management, mail routing, anti-spam/antivirus (Amavis, SpamAssassin, ClamAV)\nHigh-availability setups (multi-server), backups and disaster recovery\nTroubleshooting MTA, LMTP, mailboxd, and Zimlet issues",
+            "Installation, upgrades, patching",
+            "Mailbox management, mail routing, anti-spam/antivirus (Amavis, SpamAssassin, ClamAV)",
+            "High-availability setups (multi-server), backups and disaster recovery",
+            "Troubleshooting MTA, LMTP, mailboxd, and Zimlet issues",
+            "Perform daily system administration tasks:\nUser and permission management (Active Directory, LDAP, local accounts)\nSecurity hardening, log monitoring, automated patching\nPerformance tuning and capacity planning\nBackup and recovery strategies (Veeam, Proxmox Backup, rsync, Windows Backup, Zimbra backups)",
+            "User and permission management (Active Directory, LDAP, local accounts)",
+            "Security hardening, log monitoring, automated patching",
+            "Performance tuning and capacity planning",
+            "Backup and recovery strategies (Veeam, Proxmox Backup, rsync, Windows Backup, Zimbra backups)",
+            "Basic routing and switching:\nVLAN configuration, inter-VLAN routing\nVPN setup (IPsec, OpenVPN )",
+            "VLAN configuration, inter-VLAN routing",
+            "VPN setup (IPsec, OpenVPN )",
+            "MikroTik RouterOS administration:\nRouterBOARD configuration and maintenance\nFirewall, NAT, queuing (QoS\nVPN (PPTP, L2TP, OpenVPN, IPsec)",
+            "RouterBOARD configuration and maintenance",
+            "Firewall, NAT, queuing (QoS",
+            "VPN (PPTP, L2TP, OpenVPN, IPsec)",
+            "Monitor systems using Zabbix, Nagios, LibreNMS, or similar tools",
+            "Participate in on-call rotation (24×7 support when required)",
+            "Automate repetitive tasks using Bash, PowerShell, Ansible, or Python"
+        ],
+        "employment_status": "Not found",
+        "education": [
+            "Bachelor of Science (BSc)",
+            "Master of Science (MSc)"
+        ],
+        "experience": [
+            "At least 3 years",
+            "At least 3 years",
+            "The applicants should have experience in the following business area(s): Telecommunication, IT Enabled Service, ISP"
+        ],
+        "additional_requirements": [
+            "Age 25 to 40 years",
+            "Required Skills & Experience",
+            "3+ years of professional experience as a System Administrator",
+            "Advanced knowledge of Linux (Debian/Ubuntu and RHEL-based distributions)",
+            "Strong Windows Server administration (AD DS, DNS, DHCP, GPO, IIS is a plus)",
+            "Hands-on experience with VMware ESXi/vSphere and Proxmox VE in production",
+            "Proven experience administering Zimbra mail servers (multi-server setups preferred)",
+            "Good knowledge of TCP/IP networking, subnetting, routing, switching, and firewall concepts",
+            "Experience with backup solutions (Veeam, Proxmox Backup Server, rsync, etc.)",
+            "Scripting and automation (Bash, PowerShell, Python, Ansible)",
+            "Strong troubleshooting and problem-solving skills",
+            "Ability to work independently and prioritize tasks"
+        ],
+        "vacancy": "Not specified",
+        "location": "Location: Dhaka, Dhaka (Gulshan)",
+        "age": "25 to 40 years",
+        "salary": "Negotiable",
+        "other_benefits": [
+            "Mobile bill,Weekly 2 holidays",
+            "Lunch Facilities: Partially Subsidize",
+            "Salary Review: Yearly",
+            "Festival Bonus: 2"
+        ],
+        "published": "09 Dec 2025",
+        "skills": [
+            "Analytical Skill",
+            "Good comunication skill",
+            "IT Skill",
+            "IT Support Service",
+            "Report Writing",
+            "Telecommunication"
+        ],
+        "category": "DevOps & Cloud"
+    },
+    {
+        "title": "Programmer-RnD & Pre-sales",
+        "company_name": "aamra networks limited",
+        "deadline": "Deadline:20 Dec2025",
+        "url": "https://jobs.bdjobs.com/jobdetails/?id=1438069&fcatId=8&ln=1",
+        "responsibilities": [
+            "Develop, test, and maintain web applications using PHP and related technologies.",
+            "Work with MySQL/MariaDB or other databases to optimize queries and improve performance.",
+            "Collaborate with front-end developers to integrate user-facing elements with server-side logic.",
+            "Implement RESTful APIs for seamless data exchange between applications.",
+            "Debug, troubleshoot, and improve existing applications for better performance.",
+            "Write clean, well-documented, and maintainable code following industry best practices.",
+            "Stay updated with the latest PHP frameworks, libraries, and trends to enhance development efficiency.",
+            "Work with version control systems (Git) for code collaboration and tracking.",
+            "Ensure application security, scalability, and performance optimization."
+        ],
+        "employment_status": "Not found",
+        "education": [
+            "Bachelor of Science (BSc) in Computer Science",
+            "Master of Science (MSc) in Computer Science"
+        ],
+        "experience": [
+            "1 to 3 years",
+            "1 to 3 years",
+            "The applicants should have experience in the following business area(s): Telecommunication, IT Enabled Service, ISP",
+            "Freshers are also encouraged to apply."
+        ],
+        "additional_requirements": [
+            "Age 25 to 28 years"
+        ],
+        "vacancy": "Not specified",
+        "location": "Location: Dhaka (Banani)",
+        "age": "25 to 28 years",
+        "salary": "Negotiable",
+        "other_benefits": [
+            "Mobile bill,Weekly 2 holidays,Insurance",
+            "Lunch Facilities: Partially Subsidize",
+            "Festival Bonus: 2"
+        ],
+        "published": "09 Dec 2025",
+        "skills": [],
+        "category": "Software Engineering"
+    },
+    {
+        "title": "PHP Laravel Developer",
+        "company_name": "Nano Information Technology",
+        "deadline": "Deadline:8 Jan2026",
+        "url": "https://jobs.bdjobs.com/jobdetails/?id=1438020&fcatId=8&ln=1",
+        "responsibilities": [],
+        "employment_status": "Not found",
+        "education": [
+            "Bachelor of Science (BSc) in Computer Science & Engineering"
+        ],
+        "experience": [
+            "2 to 4 years",
+            "2 to 4 years",
+            "The applicants should have experience in the following business area(s): Software Company, IT Enabled Service, Development Agency"
+        ],
+        "additional_requirements": [
+            "PHP 8",
+            "Laravel framework",
+            "Node.js/Nest.js",
+            "Vue.js",
+            "React.js",
+            "MySQL",
+            "MongoDB",
+            "Redis",
+            "Linux server environments",
+            "Docker",
+            "PostgreSQL (PSQL)",
+            "Oracle Database",
+            "Microsoft Azure (Cloud Services)",
+            "Angular 18"
+        ],
+        "vacancy": "Not specified",
+        "location": "Location: Dhaka",
+        "age": "Not found",
+        "salary": "Tk. 30000 - 60000 (Monthly)",
+        "other_benefits": [
+            "Weekly 2 holidays,Over time allowance,Credit card",
+            "Salary Review: Yearly"
+        ],
+        "published": "09 Dec 2025",
+        "skills": [
+            "Laravel Framework",
+            "PHP (Laravel)",
+            "PHP MySql"
+        ],
+        "category": "Software Engineering"
+    },
+    {
+        "title": "Payroll Officer",
+        "company_name": "Tusuka Group",
+        "deadline": "Deadline:19 Dec2025",
+        "url": "https://jobs.bdjobs.com/jobdetails/?id=1438004&fcatId=8&ln=1",
+        "responsibilities": [
+            "Collect daily, weekly or monthly timesheets.",
+            "Process payroll for all employees accurately and on time.",
+            "Comply, verify accuracy and sort information according to priorities to prepare source data for computer entry.",
+            "Maintain payroll records and ensure data integrity.",
+            "Resolve any discrepancies or issues related to payroll.",
+            "Ensure compliance with relevant laws and regulations regarding payroll processes.",
+            "Collaborate with HR to update employee records as needed.",
+            "Calculate overtime, bonuses and allowances.",
+            "Prepare employees’ compensation by the end of each month using payroll software.",
+            "Distribute payment statements and gather signed receipts.",
+            "Report on payroll expenses.",
+            "Enter new employee’s data into software and internal databases."
+        ],
+        "employment_status": "Not found",
+        "education": [
+            "Diploma in Computer"
+        ],
+        "experience": [
+            "3 to 4 years",
+            "3 to 4 years",
+            "The applicants should have experience in the following business area(s): Garments, Textile"
+        ],
+        "additional_requirements": [
+            "Age 25 to 30 years",
+            "Ability to handle confidential information.",
+            "Able to entry employee information into software.",
+            "Must have good knowledge on computer application (MS word, Advance MS Excel, Bijoy Bangla.",
+            "Must have knowledge on HRIS."
+        ],
+        "vacancy": "Not specified",
+        "location": "Location: Gazipur",
+        "age": "25 to 30 years",
+        "salary": "Negotiable",
+        "other_benefits": [
+            "Salary Review: Yearly"
+        ],
+        "published": "09 Dec 2025",
+        "skills": [
+            "Adaptability",
+            "Ethical practice.",
+            "Excellent communication and presentation skills",
+            "hardworking",
+            "Honesty and Sincerity",
+            "Proactive and Positive attitude",
+            "Teamwork"
+        ],
+        "category": "Other / Uncategorized"
+    },
+    {
+        "title": "Junior Software Engineer",
+        "company_name": "Softcell System",
+        "deadline": "Deadline:18 Dec2025",
+        "url": "https://jobs.bdjobs.com/jobdetails/?id=1437994&fcatId=8&ln=1",
+        "responsibilities": [
+            "Design, develop, and maintain web applications using the Laravel framework.",
+            "Write clean, efficient, and well-documented code.",
+            "Collaborate with front-end developers to integrate user-facing elements with server-side logic.",
+            "Troubleshoot, debug, and optimize application performance.",
+            "Implement modern, best practices for security, testing, and scalability.",
+            "Participate in code reviews to ensure code quality and maintainability.",
+            "Continuously learn and apply new web technologies and development techniques.",
+            "Collaborate with cross-functional teams to define, design, and ship new features."
+        ],
+        "employment_status": "Not found",
+        "education": [
+            "Bachelor of Science (BSc) in Computer Science & Engineering"
+        ],
+        "experience": [
+            "1 to 2 years",
+            "1 to 2 years",
+            "The applicants should have experience in the following business area(s): Software Company"
+        ],
+        "additional_requirements": [
+            "Age 24 to 25 years",
+            "Good Communication skill is a must.",
+            "Experience with Basic JavaScript",
+            "Experience with modern front-end frameworks (React, etc.).",
+            "Familiarity with cloud platforms (Cpanel, Google Cloud, etc.).",
+            "Proven experience working with Laravel (Please note: this is a must-have; applicants without Laravel experience will not be considered).",
+            "Strong understanding of PHP and Laravel-specific features, such as Eloquent ORM, migrations, queues, etc.",
+            "Experience with MySQL or other relational databases.",
+            "Knowledge of version control systems, particularly Git.",
+            "Familiarity with RESTful API development and integration.",
+            "Ability to write secure and optimized code."
+        ],
+        "vacancy": "Not specified",
+        "location": "Location: Dhaka (Uttara)",
+        "age": "24 to 25 years",
+        "salary": "Negotiable",
+        "other_benefits": [],
+        "published": "09 Dec 2025",
+        "skills": [
+            "Software Engineering"
+        ],
+        "category": "Software Engineering"
+    },
+    {
+        "title": "Executive/ Sr. Executive - IT",
+        "company_name": "AZIM GROUP",
+        "deadline": "Deadline:20 Dec2025",
+        "url": "https://jobs.bdjobs.com/jobdetails/?id=1438000&fcatId=8&ln=1",
+        "responsibilities": [
+            "Monitor, maintain & troubleshoot LAN, WAN, Wi-Fi, switches, routers, access control & other network devices.",
+            "Configure and maintain CCTV systems (DVR/NVR), including date/time updates.",
+            "Manage servers including file server, database server, mail server & backup server.",
+            "Ensure uptime, stability & performance of the overall IT infrastructure.",
+            "Maintain and support desktops, laptops, UPS, network and laser printers, photocopiers, scanners, multimedia projectors, and other IT devices.",
+            "Troubleshoot OS (Windows, Linux and Android) issues, application errors & provide user-level support.",
+            "Maintain inventory of IT assets, licensing, warranty and version control.",
+            "Provide support for Payroll system.",
+            "Provided end-user training and technical onboarding.",
+            "Set up network printers, shared drives, and provide desktop-to-desktop support.",
+            "Monitor internet speed, bandwidth usage, and website access using Microtek router.",
+            "Manage the full lifecycle of IT hardware and software, including installation, configuration, upgrades, and troubleshooting across Windows, Linux, and Android environments.",
+            "Configure and support email systems (Gmail, Microsoft Outlook, Microsoft365) and Support attendance system devices (e.g., ZKTeco, Hikvision).",
+            "Conduct floor visits to assist users, collect feedback, and resolve device-related issues.",
+            "Scheduled and organized meetings using platforms like Zoom, Microsoft Teams, Google Meet, Skype, and Webex.",
+            "Monitor IT product prices and support procurement decisions.",
+            "Must be capable of learning new technologies, system, servers and should do R&D and testing new technologies.",
+            "Supported multiple office locations with consistent IT service delivery."
+        ],
+        "employment_status": "Not found",
+        "education": [
+            "Bachelor of Science (BSc) in Computer Science & Engineering"
+        ],
+        "experience": [
+            "At least 4 years",
+            "At least 4 years",
+            "The applicants should have experience in the following business area(s): Manufacturing (Light Engineering and Heavy Industry), Garments"
+        ],
+        "additional_requirements": [
+            "Age 25 to 35 years"
+        ],
+        "vacancy": "Not specified",
+        "location": "Location: Dhaka (Dhamrai)",
+        "age": "25 to 35 years",
+        "salary": "Negotiable",
+        "other_benefits": [],
+        "published": "09 Dec 2025",
+        "skills": [],
+        "category": "Other / Uncategorized"
+    },
+    {
+        "title": "Web Application Developer",
+        "company_name": "Hatim Group",
+        "deadline": "Deadline:8 Jan2026",
+        "url": "https://jobs.bdjobs.com/jobdetails/?id=1437985&fcatId=8&ln=1",
+        "responsibilities": [
+            "Design, develop, and maintain corporate and e-commerce websites for the Group of Companies.",
+            "Manage website content, layout, user interface, and overall performance.",
+            "Develop and integrate web applications, backend systems, and database structures (PHP & MySQL preferred).",
+            "Monitor website security, speed, and SEO performance.",
+            "Collaborate with Marketing, IT, and Branding teams for continuous website improvements.",
+            "Maintain e-commerce features including product updates, order systems, customer interface, and backend processes.",
+            "Troubleshoot website issues and provide timely solutions.",
+            "If required, contribute to mobile app development and maintenance.",
+            "Support digital marketing activities (landing pages, tracking setup, social media integration, etc.)."
+        ],
+        "employment_status": "Only Male",
+        "education": [
+            "Bachelor of Science (BSc)",
+            "Bachelor of Computer Application (BCA)"
+        ],
+        "experience": [
+            "2 to 5 years",
+            "2 to 5 years",
+            "The applicants should have experience in the following business area(s): Plastic/ Polymer Industry, Furniture Manufacturer, Steel"
+        ],
+        "additional_requirements": [
+            "Minimum 2–4 years of experience in corporate or group of companies’ website development.",
+            "Strong working experience in PHP, MySQL, JavaScript, HTML, CSS, and CMS platforms.",
+            "Experience in e-commerce platforms (WooCommerce, Shopify, custom PHP, etc.) is highly preferred.",
+            "Experience in mobile app development will be considered a plus.",
+            "Knowledge of digital marketing concepts will be an added advantage.",
+            "PHP, MySQL, Laravel/CodeIgniter (optional)",
+            "JavaScript, jQuery, React/Vue (optional)",
+            "HTML5, CSS3, Bootstrap",
+            "API Integration",
+            "Website Analytics & SEO basics",
+            "Problem-solving & creative thinking",
+            "Additional Requirements:",
+            "Must be self-motivated, responsible, and able to work under pressure.",
+            "Strong communication and teamwork skills.",
+            "Ability to manage multiple projects at a time."
+        ],
+        "vacancy": "Not specified",
+        "location": "Location: Dhaka (Paltan)",
+        "age": "Not found",
+        "salary": "Negotiable",
+        "other_benefits": [],
+        "published": "09 Dec 2025",
+        "skills": [],
+        "category": "Software Engineering"
+    },
+    {
+        "title": "Officer/Sr. Officer (ERP)-IT",
+        "company_name": "A Reputed Knit Garments Industry.",
+        "deadline": "Deadline:22 Dec2025",
+        "url": "https://jobs.bdjobs.com/jobdetails/?id=1437867&fcatId=8&ln=1",
+        "responsibilities": [
+            "Provide technical and functional support to end-users during ERP implementation and daily operations.",
+            "Assist in configuring and customizing ERP modules to align with garment industry workflows (e.g., merchandising, production, inventory, etc.).",
+            "Troubleshoot system-related issues and coordinate with department heads for resolution.",
+            "Conduct training sessions for staff on ERP functionalities and best practices.",
+            "Collaborate with departments to gather feedback and propose improvements or enhancements.",
+            "Monitor ERP performance and ensure data accuracy, system compliance, and process integrity.",
+            "Prepare and maintain system documentation, including user guides, FAQs, bug reports, and change logs.",
+            "Strong understanding of knit garment manufacturing processes.",
+            "Hands-on experience with ERP systems, preferably tailored for the garment industry.",
+            "Familiarity with system testing and validation to ensure functional and data integrity.",
+            "Ability to prepare clear documentation for new deployments, issue tracking, and bug reporting.",
+            "Strong problem-solving and analytical skills.",
+            "Effective communication and interpersonal skills for end-user interaction and training.",
+            "Basic technical knowledge of databases and reporting tools is an added advantage.",
+            "Experience with project management tools such as JIRA or equivalent platforms."
+        ],
+        "employment_status": "Not found",
+        "education": [
+            "Bachelor of Science (BSc)",
+            "Master of Science (MSc)",
+            "B.Sc./C.Sc/M.Sc"
+        ],
+        "experience": [
+            "3 to 5 years",
+            "3 to 5 years",
+            "The applicants should have experience in the following business area(s): Garments"
+        ],
+        "additional_requirements": [
+            "Age 26 to 32 years",
+            "3–5 years of relevant experience in ERP implementation and support, preferably in the garment manufacturing sector.",
+            "Do not apply if you are not comfortable communicating in English, as this role requires regular interaction, documentation, and training support in English."
+        ],
+        "vacancy": "Not specified",
+        "location": "Location: Gazipur (Gazipur Sadar)",
+        "age": "26 to 32 years",
+        "salary": "Negotiable",
+        "other_benefits": [
+            "Mobile bill,Provident fund,Insurance",
+            "Lunch Facilities: Full Subsidize",
+            "Salary Review: Yearly",
+            "Festival Bonus: 2",
+            "Earn Leave Encashment",
+            "Service Benefit"
+        ],
+        "published": "08 Dec 2025",
+        "skills": [],
+        "category": "Other / Uncategorized"
+    },
+    {
+        "title": "UI/UX Designer",
+        "company_name": "NEC Money Transfer Limited",
+        "deadline": "Deadline:7 Jan2026",
+        "url": "https://jobs.bdjobs.com/jobdetails/?id=1437755&fcatId=8&ln=1",
+        "responsibilities": [
+            "Design visually appealing, user-friendly mobile interfaces.",
+            "Create wireframes, prototypes, and high-fidelity UI designs.",
+            "Collaborate with product managers to define UX goals.",
+            "Conduct user research and usability testing.",
+            "Ensure designs follow brand guidelines and platform standards.",
+            "Work with developers for accurate design implementation.",
+            "Keep design patterns and styles consistent across products."
+        ],
+        "employment_status": "Only Male",
+        "education": [
+            "Age 22 to 35 years"
+        ],
+        "experience": [],
+        "additional_requirements": [],
+        "vacancy": "Not specified",
+        "location": "Location: Dhaka",
+        "age": "22 to 35 years",
+        "salary": "Tk. 20000 - 35000 (Monthly)",
+        "other_benefits": [],
+        "published": "08 Dec 2025",
+        "skills": [],
+        "category": "Design & Creative"
+    },
+    {
+        "title": "Upwork Specialist / Manager",
+        "company_name": "Delco IT",
+        "deadline": "Deadline:18 Dec2025",
+        "url": "https://jobs.bdjobs.com/jobdetails/?id=1437700&fcatId=8&ln=1",
+        "responsibilities": [
+            "Submit tailored proposals with accurate pricing & timelines.",
+            "Communicate professionally with clients to understand project requirements.",
+            "Conduct Zoom/Google Meet calls to finalize project scope.",
+            "Coordinate with internal teams to ensure timely delivery.",
+            "Track all proposals, follow-ups, and conversions using Google Sheets or CRM.",
+            "Meet daily/weekly bidding and conversion targets.",
+            "UI/UX Design (Web, App, Branding, Prototyping, Figma/Adobe XD)",
+            "CMS Development (WordPress, Shopify, Wix, Squarespace, Framer, Webflow)",
+            "Video Production & Editing (Reels, Short-form Content, Promotional Videos)",
+            "Social Media Design (Posts, Reels, Ads, Graphics)"
+        ],
+        "employment_status": "Not found",
+        "education": [
+            "Bachelor/Honors"
+        ],
+        "experience": [
+            "1 to 2 years",
+            "1 to 2 years",
+            "The applicants should have experience in the following business area(s): Development Agency"
+        ],
+        "additional_requirements": [
+            "Age 25 to 40 years",
+            "Upwork Expertise: Proven success in at least one of the categories above, with 1–2 years of hands-on experience handling client projects and bidding on Upwork",
+            "Excellent written & verbal English communication.",
+            "Strong client-handling, negotiation, and closing skills.",
+            "Highly organized, self-motivated, and target-driven.",
+            "Ability to handle multiple proposals and clients simultaneously.",
+            "Experience coordinating with design, development, and content teams."
+        ],
+        "vacancy": "Not specified",
+        "location": "Location: Dhaka (Mirpur)",
+        "age": "25 to 40 years",
+        "salary": "Tk. 40000 - 60000 (Monthly)",
+        "other_benefits": [],
+        "published": "08 Dec 2025",
+        "skills": [],
+        "category": "Management & Product"
+    },
+    {
+        "title": "Cyber Security Engineer",
+        "company_name": "SSL Wireless",
+        "deadline": "Deadline:31 Dec2025",
+        "url": "https://jobs.bdjobs.com/jobdetails/?id=1437765&fcatId=8&ln=1",
+        "responsibilities": [
+            "Conduct internal and external customer VAPT engagements across networks, web/mobile apps, APIs, and cloud environments.",
+            "Perform manual and automated penetration testing using industry-standard tools.",
+            "Create proof-of-concept exploits and validate vulnerabilities.",
+            "Prepare detailed technical reports and executive summaries.",
+            "Ensure assessments comply with OWASP, NIST, ISO, and SSL Wireless standards.",
+            "Support red team operations including phishing, social engineering, and adversarial simulations.",
+            "Utilize MITRE ATT&CK-aligned techniques to emulate real-world threat actors.",
+            "Develop custom payloads and attack chains when required.",
+            "Maintain basic operational knowledge of defensive security tools and concepts.",
+            "Support endpoint security, including antivirus, EDR, and XDR solutions.",
+            "Assist in alert validation, incident response coordination, and monitoring when necessary.",
+            "Work with defensive teams to ensure attack findings translate into improved detection and hardening.",
+            "Participate in PoC deployments at customer premises for cybersecurity solutions (EDR, XDR, SIEM, NAC, etc.).",
+            "Demonstrate product functionality, assist technical teams, and support customer onboarding.",
+            "Coordinate with sales, product, and technical teams to ensure smooth PoC execution.",
+            "Provide technical feedback and improvements based on customer requirements.",
+            "Work closely with Infrastructure, DevOps, Network, and Application teams on remediation.",
+            "Support the creation of security playbooks, guidelines, and offensive methodology documents.",
+            "Stay updated with global threat trends, CVEs, tools, and exploitation techniques."
+        ],
+        "employment_status": "Dhaka",
+        "education": [
+            "Bachelor of Science (BSc) in Computer Science & Engineering",
+            "Bachelor of Science (BSc) in Information Technology",
+            "Bachelor’s degree in Computer Science, Cyber Security, IT, or related field."
+        ],
+        "experience": [
+            "1 to 3 years",
+            "1 to 3 years"
+        ],
+        "additional_requirements": [
+            "Strong understanding of web technologies, networks, and OS internals.",
+            "Experience with offensive tools including:",
+            "Burp Suite, Metasploit, Nmap, Nessus, Wireshark, Kali Linux, SQLMap, BloodHound, etc.",
+            "Familiarity with OWASP Top 10, SANS Top 25, exploit development basics.",
+            "Understanding of AD exploitation, lateral movement, privilege escalation.",
+            "Scripting skills (Python, Bash, PowerShell, JS) are an advantage.",
+            "Endpoint protection, EDR, XDR platforms",
+            "Security monitoring fundamentals",
+            "Cyber security product integrations",
+            "Strong analytical mindset and problem-solving ability.",
+            "Excellent communication and report-writing skills.",
+            "Ability to manage multiple engagements and work under pressure.",
+            "High integrity, ownership, and responsibility.",
+            "1–3 years of experience in penetration testing, vulnerability assessment, or combined offensive/defensive roles.",
+            "OSCP, eJPT, CEH, PNPT, eWPT, Security+, or relevant equivalents."
+        ],
+        "vacancy": "Not specified",
+        "location": "Location: Dhaka",
+        "age": "Not found",
+        "salary": "Negotiable",
+        "other_benefits": [
+            "Attractive salary as per industry best practice.",
+            "Yearly salary review based on performance.",
+            "Weekly 2 holidays.",
+            "2 festival bonuses (Yearly).",
+            "Weekly medical consultancy.",
+            "Annual leave encashment.",
+            "Medical coverage.",
+            "Congenial & friendly working environment."
+        ],
+        "published": "08 Dec 2025",
+        "skills": [],
+        "category": "Cybersecurity"
+    },
+    {
+        "title": "Technical Support Engineer - Intern",
+        "company_name": "Progeny Technologies Ltd.",
+        "deadline": "Deadline:31 Dec2025",
+        "url": "https://jobs.bdjobs.com/jobdetails/?id=1437758&fcatId=8&ln=1",
+        "responsibilities": [
+            "Assist in gathering and documenting user requirements.",
+            "Support software implementation activities.",
+            "Troubleshoot and respond to client issues under senior guidance.",
+            "Communicate with clients regarding issue updates and resolutions.",
+            "Assist in preparing training materials, documentation, and testing procedures.",
+            "Work closely with the internal product and support teams to understand client needs and system functionalities."
+        ],
+        "employment_status": "Not found",
+        "education": [
+            "Bachelor of Science (BSc) in Computer Science & Engineering"
+        ],
+        "experience": [
+            "Age 22 to 27 years",
+            "Strong communication and client-handling skills",
+            "Positive, proactive attitude",
+            "Quick learning ability and curiosity for enterprise software",
+            "Ability to work under pressure",
+            "Teamwork and collaborative mindset",
+            "Basic understanding of SQL, ERP or Accounting systems (added advantage)"
+        ],
+        "additional_requirements": [],
+        "vacancy": "Not specified",
+        "location": "Location: Dhaka (DOHS Baridhara)",
+        "age": "22 to 27 years",
+        "salary": "Tk. 10000 - 12000 (Monthly)",
+        "other_benefits": [
+            "Salary Review: Yearly",
+            "Lunch Facilities: Partially Subsidize",
+            "Festival Bonus: 2",
+            "Full-time job opportunity based on performance",
+            "Hands-on training on ERP, HRMS, CRM, Accounting, and Inventory software",
+            "Opportunity to work directly with senior engineers and enterprise clients",
+            "Attractive salary package based on performance",
+            "Performance bonus",
+            "Professional development & mentorship",
+            "Career growth in the enterprise software industry"
+        ],
+        "published": "08 Dec 2025",
+        "skills": [
+            "communication and interpersonal skill.",
+            "Proactive and Positive attitude",
+            "Quick learner and hard working",
+            "Teamwork",
+            "Working under pressure"
+        ],
+        "category": "IT Support & Hardware"
+    },
+    {
+        "title": "Officer (IT & Digital Marketer)",
+        "company_name": "Advanced Poultry & Fish Feeds Ltd.",
+        "deadline": "Deadline:3 Jan2026",
+        "url": "https://jobs.bdjobs.com/jobdetails/?id=1437751&fcatId=8&ln=1",
+        "responsibilities": [
+            "Maintain and manage the organization's servers, networks, and computer systems.·",
+            "Ensure network security and troubleshoot technical issues.·",
+            "Software and Hardware Management:·",
+            "Install, update, and maintain necessary software applications.·",
+            "Identify and resolve issues related to computers, printers, scanners, and other hardware devices.",
+            "Ensure the security of sensitive company data.·",
+            "Perform regular data backups and establish data recovery procedures.",
+            "IT Support and Technical Assistance:·",
+            "Provide technical support to employees for IT-related issues.·",
+            "Conduct training sessions on software and hardware usage.",
+            "Cyber security and Risk Management:·",
+            "Implement security measures to protect against cyber threats.·",
+            "Adhere to IT security policies and best practices.",
+            "Website and Email Management:·",
+            "Maintain and update the organization’s website.·",
+            "Manage and secure official email servers.",
+            "Develop and implement IT strategies to enhance efficiency.·",
+            "Prepare and submit reports on IT operations and security measures to the management.",
+            "Develop and Implement Digital Marketing Strategies Create, execute, and monitor online marketing campaigns aligned with business goals.",
+            "Social Media Marketing (SMM)Manage and grow company presence on platforms like Facebook,",
+            "Content Creation and Marketing Plan, create and distribute valuable content (blogs, videos, infographics) to attract and retain audiences.",
+            "Market Research and Competitor Analysis Study market trends and analyze competitors to enhance campaign effectiveness.",
+            "Web Analytics and Conversion Tracking Use tools like Google Analytics, Facebook Pixel, etc., to monitor traffic, user behavior, and campaign performance.",
+            "Brand Promotion and Customer Engagement",
+            "Build brand awareness and foster engagement with followers and customers through various digital means.",
+            "Campaign Performance Reporting Analyze data and create detailed reports on marketing campaign results, ROI, and KPIs.",
+            "Collaborate with Designers, Developers, and Sales Teams Work closely with other departments to create unified marketing strategies and content.",
+            "Maintain Website and Optimize User Experience Ensure the website is updated, user-friendly, mobile-optimized, and aligned with SEO practices."
+        ],
+        "employment_status": "Full Time",
+        "education": [
+            "Diploma in Computer",
+            "Diploma in Engineering",
+            "Bachelor in Engineering (BEngg) in Computer Engineering",
+            "Bachelor of Science (BSc)"
+        ],
+        "experience": [
+            "2 to 5 years",
+            "2 to 5 years",
+            "The applicants should have experience in the following business area(s): Manufacturing (FMCG), Shrimp, Agro based firms (incl. Agro Processing/Seed/GM), Poultry, Fisheries, Farming, Livestock, Animal/Plant Breeding, Hatchery, Dairy"
+        ],
+        "additional_requirements": [
+            "Age 25 to 40 years"
+        ],
+        "vacancy": "Not specified",
+        "location": "Location: Dhaka (Uttara)",
+        "age": "25 to 40 years",
+        "salary": "Tk. 20000 - 30000 (Monthly)",
+        "other_benefits": [
+            "T/A,Mobile bill,Over time allowance",
+            "Lunch Facilities: Partially Subsidize",
+            "Salary Review: Yearly",
+            "Festival Bonus: 2"
+        ],
+        "published": "08 Dec 2025",
+        "skills": [
+            "Digital Marketing (Social Media Marketing)",
+            "Good comunication skill",
+            "Good Ms office and Emailing skill",
+            "Leadership and Good Communication skill.",
+            "Microsoft PowerPoint",
+            "Presentation skill",
+            "Purchase and Procurement",
+            "Whats app"
+        ],
+        "category": "Marketing & Content"
+    },
+    {
+        "title": "Engineer/Assistant Engineer- NOC , IPTV Operation",
+        "company_name": "STARDUST Telecom Limited",
+        "deadline": "Deadline:10 Dec2025",
+        "url": "https://jobs.bdjobs.com/jobdetails/?id=1437636&fcatId=8&ln=1",
+        "responsibilities": [
+            "Continuously monitor live alarms and overall health of IPTV systems, including Headend, Middleware, TV Mosaic, HLS Probe, CDN, and delivery network on a 24/7 roster basis.",
+            "Detect, report, and resolve issues related to content acquisition, transcoding, transport, servers, and web services.",
+            "Conduct surveillance of multiple video systems across different geographical locations.",
+            "Perform logical troubleshooting, root cause analysis, and implement standard break/fix actions.",
+            "Support testing and maintenance of video service applications including CDN, VOD, and broadcast services.",
+            "Ensure consistent service uptime and optimal performance of all related systems.",
+            "Escalate complex issues to senior Video/Network Engineers as per escalation matrix.",
+            "Collaborate with cross-functional teams to address customer-impacting conditions effectively.",
+            "Communicate and coordinate with local and international partners for QoS or network-related issues.",
+            "Follow up to ensure resolution within defined SLAs.",
+            "Prepare QoS performance reports, analyze trends, and escalate anomalies for corrective action.",
+            "Support operational efficiency initiatives to improve network and service reliability.",
+            "Inform all relevant stakeholders about planned/scheduled maintenance work and service updates.",
+            "Record call failure causes and prepare detailed reports for clarification from responsible stakeholders."
+        ],
+        "employment_status": "Full Time",
+        "education": [
+            "Bachelor of Science (BSc)",
+            "Master of Science (MSc)"
+        ],
+        "experience": [
+            "1 to 5 years",
+            "1 to 5 years",
+            "The applicants should have experience in the following business area(s): Telecommunication, IT Enabled Service, Group of Companies"
+        ],
+        "additional_requirements": [],
+        "vacancy": "Not specified",
+        "location": "Location: Anywhere in Bangladesh",
+        "age": "Not found",
+        "salary": "Negotiable",
+        "other_benefits": [
+            "Mobile bill,Provident fund,Weekly 2 holidays,Insurance,Gratuity",
+            "Lunch Facilities: Partially Subsidize",
+            "Salary Review: Yearly",
+            "Festival Bonus: 2",
+            "Leave Fare Assistance",
+            "Yearly Increment",
+            "Pick-up and drop-off services",
+            "Earned Leave Encashment",
+            "Professional Development: Dynamic work environment, professional growth opportunities and a chance to be part of a team dedicated to excellence.",
+            "Supportive and Learning-Based Work Environment: A positive and inclusive workplace culture that promotes collaboration and innovation.",
+            "We promote competitive salary, female friendly workplace, outstanding co-workers (who are respectful, professional, unbiased and easy to work with); equal opportunity that mean equal access to promotion, leadership role or incentive program."
+        ],
+        "published": "08 Dec 2025",
+        "skills": [],
+        "category": "Data & AI"
+    },
+    {
+        "title": "WordPress Designer (Landing Page Specialist)",
+        "company_name": "BuzzBlu",
+        "deadline": "Deadline:6 Jan2026",
+        "url": "https://jobs.bdjobs.com/jobdetails/?id=1436287&fcatId=8&ln=1",
+        "responsibilities": [
+            "High-converting Landing Page ডিজাইন করা (Elementor, Divi বা Gutenberg ব্যবহার করে)।",
+            "CTA, Visual Flow, Funnel Psychology অনুযায়ী Layout তৈরি করা।",
+            "Speed-optimized, mobile responsive, clean UI/UX নিশ্চিত করা।",
+            "Theme Install, Setup, Customization",
+            "Header, Footer, Menu, Blog Page, Contact Page তৈরি",
+            "Section-Based Layout",
+            "Animation, Scroll Effect, Sticky Header",
+            "Dynamic Content Setup",
+            "User Journey বোঝা",
+            "Heatmap Data বা Sales Funnel অনুযায়ী Design Improvement",
+            "A/B Testing Friendly Layout তৈরি",
+            "Image Compression, Cache Setup, CSS/JS Minify",
+            "PageSpeed Score 80+ রাখার চেষ্টা",
+            "Broken Layout Fix",
+            "Mobile Optimization",
+            "Plugin Conflict ছিলেন",
+            "Daily Backup মনিটরিং",
+            "Media Buyer, Content Writer, Sales টিমের সাথেপ্রতিদিনের কমিউনিকেশন",
+            "Funnel Improvement সাজেস্ট করা",
+            "Creative Team-কে Design Direction দেওয়া"
+        ],
+        "employment_status": "Dhaka",
+        "education": [
+            "1 to 2 years",
+            "1 to 2 years"
+        ],
+        "experience": [
+            "WordPress-এ কমপক্ষে ১–২ বছরের অভিজ্ঞতা",
+            "Elementor / Divi-তে Expert Level দক্ষতা",
+            "Landing Page UI/UX সম্পর্কে strong understanding",
+            "WooCommerce Basic Knowledge (অতিরিক্ত সুবিধা)",
+            "Speed Optimization-এ দক্ষতা",
+            "Creative design sense + Clean layout বানানোর অভ্যাস",
+            "Responsible, Time-Consistent, Teamwork Ability",
+            "Pressure Handle করেকাজ করতেপারা"
+        ],
+        "additional_requirements": [],
+        "vacancy": "Not specified",
+        "location": "Location: Dhaka",
+        "age": "Not found",
+        "salary": "Tk. 18000 - 35000 (Monthly)",
+        "other_benefits": [],
+        "published": "08 Dec 2025",
+        "skills": [],
+        "category": "Design & Creative"
+    },
+    {
+        "title": "Backend Engineer",
+        "company_name": "RACO",
+        "deadline": "Deadline:31 Dec2025",
+        "url": "https://jobs.bdjobs.com/jobdetails/?id=1437535&fcatId=8&ln=1",
+        "responsibilities": [
+            "Design schema and relationships — Plan database tables, structures, and entity relationships.",
+            "Write queries and migrations — Create, update, and maintain schemas with proper versioning.",
+            "Optimize DB performance — Implement indexing, caching strategies, and optimized joins.",
+            "Async/parallel processing — Build background workers and concurrent operations.",
+            "Queue systems — Implement Kafka/Redis queues for asynchronous task processing.",
+            "Payments & integrations — Integrate Stripe, PayPal, and mobile banking platforms.",
+            "Email service integration — Use SendGrid, SMTP, or similar email providers.",
+            "API documentation — Maintain clear API specifications using Swagger/OpenAPI.",
+            "Real-time communication — Implement WebSockets, WebRTC, Socket.IO, and Webhooks.",
+            "CI/CD pipelines — Automate testing, building, and deployments.",
+            "Containerization — Package backend services using Docker/Kubernetes.",
+            "Server configuration — Optimize server setups with NGINX, pm2, Gunicorn, or Uvicorn.",
+            "Cloud deployment — Deploy backend services on AWS, GCP, Azure, or DigitalOcean."
+        ],
+        "employment_status": "Dhaka (Uttara Sector 4)",
+        "education": [
+            "Bachelor of Science (BSc) in Computer Science & Engineering",
+            "Bachelor’s degree in Computer Science, Software Engineering, Information Technology, or a related field.",
+            "Fresh graduates or final-year students are strongly encouraged to apply."
+        ],
+        "experience": [
+            "At least 2 years",
+            "At least 2 years"
+        ],
+        "additional_requirements": [
+            "Age 25 to 40 years",
+            "Strong understanding of Object-Oriented Programming (OOP).",
+            "Good foundation in Data Structures & Algorithms.",
+            "Node.js + Express.js — REST API development using JavaScript/TypeScript.",
+            "Django REST Framework — Backend development with Python and ORM capabilities.",
+            "Golang — Building high-performance microservices and scalable backend systems.",
+            "Experience with async/parallel processing using WebSocket, WebRTC, Socket.IO, Webhooks.",
+            "Experience with payment integrations — Stripe, PayPal, mobile banking (bKash, Rocket, Nagad, etc.)."
+        ],
+        "vacancy": "Not specified",
+        "location": "Location: Dhaka (Uttara Sector 4)",
+        "age": "25 to 40 years",
+        "salary": "Tk. 20000 - 25000 (Monthly)",
+        "other_benefits": [],
+        "published": "08 Dec 2025",
+        "skills": [],
+        "category": "Software Engineering"
+    },
+    {
+        "title": "Assistant Engineer",
+        "company_name": "Universal Automations Limited_",
+        "deadline": "Deadline:6 Jan2026",
+        "url": "https://jobs.bdjobs.com/jobdetails/?id=1437247&fcatId=8&ln=1",
+        "responsibilities": [
+            "Acquire technical knowledge on company business solutions.",
+            "Research and develop relationships with new and existing clients.",
+            "Analyze client requirements to recommend appropriate solutions.",
+            "Prepare solution designs and submit them to clients.",
+            "Conduct technology sales based on client needs.",
+            "Perform site surveys and submit survey reports to clients.",
+            "Prepare and submit internal reports (Daily/Weekly/Monthly, etc.).",
+            "Perform any other duties and responsibilities assigned by Management from time to time."
+        ],
+        "employment_status": "Only Male",
+        "education": [
+            "Diploma in Computer",
+            "Bachelor of Science (BSc) in Computer Science & Engineering",
+            "Diploma in Computer Science & Engineering (CSE) or Electrical & Electronics Engineering (EEE)",
+            "Bachelor of Science in Computer Science & Engineering (B.Sc. in CSE)or Electrical & Electronics Engineering (EEE)"
+        ],
+        "experience": [
+            "2 to 3 years",
+            "2 to 3 years",
+            "The applicants should have experience in the following business area(s): Fire Fighting and Safety"
+        ],
+        "additional_requirements": [
+            "2-3 Years in Relevant Field (CCTV, Access Control, Intrusion Alarm System, Electronic Safety & Security Solutions, IT Passive Infrastructure, IT Power Infrastructure)",
+            "Strong theoretical & Practical knowledge of electrical and electronic systems.",
+            "Good knowledge of Access Control, CCTV, and other electronic security solutions.",
+            "Good understanding of IT Power and IT Infrastructure (Data Center/Server Room Setup) solutions.",
+            "Fluency in English (both written and spoken).",
+            "Strong interpersonal and communication skills.Ability to work effectively in a team."
+        ],
+        "vacancy": "Not specified",
+        "location": "Location: Dhaka",
+        "age": "Not found",
+        "salary": "Negotiable",
+        "other_benefits": [],
+        "published": "07 Dec 2025",
+        "skills": [
+            "Access Control",
+            "CCTV Installation",
+            "Fire Alarm Expertise"
+        ],
+        "category": "Data & AI"
+    },
+    {
+        "title": "Fixture Development Engineer (Factory)",
+        "company_name": "vivo Bangladesh (Head Office)",
+        "deadline": "Deadline:22 Dec2025",
+        "url": "https://jobs.bdjobs.com/jobdetails/?id=1437302&fcatId=8&ln=1",
+        "responsibilities": [
+            "Design and develop fixtures, jigs, tooling, and workstations based on product and process requirements.",
+            "Conduct fixture trials, testing, and validation on production lines",
+            "Lead and guide the fixture team to resolve technical issues efficiently.",
+            "Ensure safety standards and compliance during maintenance work.",
+            "Monitor equipment performance and suggest improvements.",
+            "Coordinate with external vendors for specialized repair/maintenance services.",
+            "Keep records of maintenance work and provide updates to management.",
+            "Manage multiple design projects simultaneously, meeting tight deadlines and prioritizing tasks."
+        ],
+        "employment_status": "Not found",
+        "education": [
+            "Diploma",
+            "Bachelor/Honors",
+            "Bachelor Degree/Diploma in any discipline."
+        ],
+        "experience": [
+            "5 to 7 years",
+            "5 to 7 years",
+            "The applicants should have experience in the following business area(s): Telecommunication, Mobile Accessories"
+        ],
+        "additional_requirements": [
+            "Age 25 to 40 years",
+            "Must have hands-on experience in CNC machining, including programming and machine setup.",
+            "Foreign Degrees will get high priority.",
+            "Hands-on experience with machinery maintenance and repair.",
+            "Strong analytical and problem-solving abilities with a strategic mindset."
+        ],
+        "vacancy": "Not specified",
+        "location": "Location: Narayanganj (Rupganj)",
+        "age": "25 to 40 years",
+        "salary": "Negotiable",
+        "other_benefits": [
+            "Insurance,Mobile bill",
+            "Lunch Facilities: Full Subsidize",
+            "Salary Review: Yearly"
+        ],
+        "published": "07 Dec 2025",
+        "skills": [
+            "CNC Machine operating",
+            "CNC Machine operation for fabrication of spare parts change parts",
+            "CNC Machine Programming"
+        ],
+        "category": "Data & AI"
+    },
+    {
+        "title": "Bidder (Upwork, Fiverr, and Freelancer)",
+        "company_name": "Naasmind Limited",
+        "deadline": "Deadline:6 Jan2026",
+        "url": "https://jobs.bdjobs.com/jobdetails/?id=1437231&fcatId=8&ln=1",
+        "responsibilities": [
+            "Lead bidding strategy on Upwork, Fiverr, and Freelancer.",
+            "Identify high-value projects and target the right clients.",
+            "Write and review high-converting proposals and estimates.",
+            "Handle advanced client communication, negotiations, and deal closure.",
+            "Coordinate closely with developers/designers for accurate scope, pricing, and timelines.",
+            "Train and manage junior bidders.",
+            "Track KPIs, conversion rates, and improve bidding performance.",
+            "Maintain top platform ratings, response time, and compliance.",
+            "Handle ongoing client relationships to ensure satisfaction and repeat business.",
+            "Excellent English communication skills (written and spoken)",
+            "Strong negotiation and closing abilities"
+        ],
+        "employment_status": "Not found",
+        "education": [
+            "Bachelor of Science (BSc)"
+        ],
+        "experience": [
+            "At least 2 years",
+            "At least 2 years",
+            "The applicants should have experience in the following business area(s): Software Company"
+        ],
+        "additional_requirements": [],
+        "vacancy": "Not specified",
+        "location": "Location: Dhaka",
+        "age": "Not found",
+        "salary": "Negotiable",
+        "other_benefits": [],
+        "published": "07 Dec 2025",
+        "skills": [
+            "Client Handling",
+            "Client Management",
+            "Client Service/ Marketing",
+            "fiverr",
+            "Freelancer",
+            "Freelancing",
+            "UpWork"
+        ],
+        "category": "Other / Uncategorized"
+    },
+    {
+        "title": "Graphic Designer",
+        "company_name": "Nassmind Ltd",
+        "deadline": "Deadline:6 Jan2026",
+        "url": "https://jobs.bdjobs.com/jobdetails/?id=1437216&fcatId=8&ln=1",
+        "responsibilities": [
+            "Design high-quality visuals for digital and print (social media, web, ads, banners, marketing materials).",
+            "Develop brand-consistent layouts, typography, and color systems.",
+            "Collaborate with marketing and development teams to execute creative concepts.",
+            "Work on website and UI/UX visuals with attention to usability.",
+            "Prepare final design files for production and web use.",
+            "Manage multiple projects, meet deadlines, and handle revisions efficiently.",
+            "Stay current with design trends and tools."
+        ],
+        "employment_status": "Not found",
+        "education": [
+            "Bachelor of Fine Arts (B.F.A)",
+            "Bachelor of Science (BSc)"
+        ],
+        "experience": [
+            "At least 2 years",
+            "At least 2 years",
+            "The applicants should have experience in the following business area(s): Advertising Agency, Software Company, Development Agency",
+            "Freshers are also encouraged to apply."
+        ],
+        "additional_requirements": [],
+        "vacancy": "Not specified",
+        "location": "Location: Dhaka",
+        "age": "Not found",
+        "salary": "Negotiable",
+        "other_benefits": [
+            "Weekly 2 holidays",
+            "Salary Review: Yearly",
+            "Festival Bonus: 2"
+        ],
+        "published": "07 Dec 2025",
+        "skills": [
+            "Adobe After Effects",
+            "Adobe Illustrator",
+            "Adobe indesign",
+            "Adobe Photoshop",
+            "Adobe Premiere Pro",
+            "Adobe XD",
+            "Figma"
+        ],
+        "category": "Design & Creative"
+    },
+    {
+        "title": "Junior Laravel developer",
+        "company_name": "WEB SOLUTION FIRM",
+        "deadline": "Deadline:17 Dec2025",
+        "url": "https://jobs.bdjobs.com/jobdetails/?id=1437178&fcatId=8&ln=1",
+        "responsibilities": [],
+        "employment_status": "Not found",
+        "education": [
+            "Diploma",
+            "Bachelor/Honors"
+        ],
+        "experience": [
+            "At least 2 years",
+            "At least 2 years",
+            "The applicants should have experience in the following business area(s): Software Company, Engineering Firms"
+        ],
+        "additional_requirements": [
+            "𝐀 𝐬𝐨𝐥𝐢𝐝 𝐟𝐨𝐮𝐧𝐝𝐚𝐭𝐢𝐨𝐧 𝐨𝐧 𝐎𝐎𝐏, 𝐀𝐥𝐠𝐨𝐫𝐢𝐭𝐡𝐦, 𝐚𝐧𝐝 𝐃𝐚𝐭𝐚 𝐒𝐭𝐫𝐮𝐜𝐭𝐮𝐫𝐞",
+            "𝐀 𝐬𝐭𝐫𝐨𝐧𝐠 𝐏𝐇𝐏 𝐰𝐢𝐭𝐡 𝐋𝐚𝐫𝐚𝐯𝐞𝐥 𝐜𝐨𝐝𝐢𝐧𝐠 𝐬𝐤𝐢𝐥𝐥.",
+            "𝐏𝐫𝐨𝐟𝐢𝐜𝐢𝐞𝐧𝐜𝐲 𝐇𝐓𝐌𝐋 𝐚𝐧𝐝 𝐂𝐒𝐒, 𝐁𝐨𝐨𝐭𝐬𝐭𝐫𝐚𝐩 𝐣𝐐𝐮𝐞𝐫𝐲, 𝐚𝐧𝐝 𝐉𝐚𝐯𝐚𝐒𝐜𝐫𝐢𝐩𝐭.",
+            "𝐔𝐧𝐝𝐞𝐫𝐬𝐭𝐚𝐧𝐝𝐢𝐧𝐠 𝐨𝐟 𝐆𝐢𝐭/𝐁𝐢𝐭𝐛𝐮𝐜𝐤𝐞𝐭.",
+            "𝐒𝐨𝐥𝐢𝐝 𝐮𝐧𝐝𝐞𝐫𝐬𝐭𝐚𝐧𝐝𝐢𝐧𝐠 𝐨𝐟 𝐌𝐲𝐒𝐐𝐋 𝐃𝐚𝐭𝐚𝐛𝐚𝐬𝐞",
+            "𝐀𝐭𝐭𝐞𝐧𝐭𝐢𝐨𝐧 𝐭𝐨 𝐝𝐞𝐭𝐚𝐢𝐥 𝐚𝐧𝐝 𝐚 𝐜𝐨𝐦𝐦𝐢𝐭𝐦𝐞𝐧𝐭 𝐭𝐨 𝐝𝐞𝐥𝐢𝐯𝐞𝐫𝐢𝐧𝐠 𝐡𝐢𝐠𝐡-𝐪𝐮𝐚𝐥𝐢𝐭𝐲 𝐜𝐨𝐝𝐢𝐧𝐠.",
+            "𝐇𝐚𝐯𝐞 𝐤𝐧𝐨𝐰𝐥𝐞𝐝𝐠𝐞 𝐨𝐟 𝐑𝐄𝐒𝐓 𝐀𝐏𝐈.",
+            "𝐌𝐮𝐬𝐭 𝐡𝐚𝐯𝐞 2+ 𝐲𝐞𝐚𝐫𝐬 𝐨𝐟 𝐣𝐨𝐛 𝐞𝐱𝐩𝐞𝐫𝐚𝐢𝐧𝐜𝐞 𝐢𝐧 Laravel Php."
+        ],
+        "vacancy": "Not specified",
+        "location": "Location: Dhaka (Mirpur)",
+        "age": "Not found",
+        "salary": "Tk. 15000 - 20000 (Monthly)",
+        "other_benefits": [
+            "Provident fund",
+            "Salary Review: Yearly",
+            "Festival Bonus: 2"
+        ],
+        "published": "07 Dec 2025",
+        "skills": [
+            "Backend Development",
+            "Database",
+            "HTML & CSS",
+            "JavaScript",
+            "Laravel",
+            "Laravel Framework",
+            "MySQL",
+            "PHP",
+            "REST API",
+            "Software Development"
+        ],
+        "category": "Software Engineering"
+    },
+    {
+        "title": "Customer Care Executive",
+        "company_name": "Easy IT Solution Ltd.",
+        "deadline": "Deadline:17 Dec2025",
+        "url": "https://jobs.bdjobs.com/jobdetails/?id=1437224&fcatId=8&ln=1",
+        "responsibilities": [
+            "Contacting new and existing customers through CRM, and preparing, updating, and forwarding reports to the supervisor.",
+            "Providing detailed product and service information to engage and educate potential customers.",
+            "Closing sales and maintaining all necessary sales-related records and documentation.",
+            "Responding to customer inquiries and resolving issues in a timely and professional manner.",
+            "Preparing daily work reports and sharing them with the supervisor.",
+            "Managing Facebook pages, Messenger, WhatsApp, and other social media platforms to reply to customer messages and comments.",
+            "Having a clear understanding of product features, pricing, delivery time, and return policies, and explaining them effectively to customers.",
+            "Communicating politely, friendly, and professionally to ensure excellent customer service and customer satisfaction."
+        ],
+        "employment_status": "Not found",
+        "education": [
+            "HSC",
+            "Bachelor/Honors"
+        ],
+        "experience": [
+            "1 to 2 years",
+            "1 to 2 years",
+            "The applicants should have experience in the following business area(s): Telecommunication, Call Center, E-commerce"
+        ],
+        "additional_requirements": [
+            "Age 18 to 30 years"
+        ],
+        "vacancy": "Not specified",
+        "location": "Location: Dhaka (Mirpur 10)",
+        "age": "18 to 30 years",
+        "salary": "Tk. 12000 - 15000 (Monthly)",
+        "other_benefits": [],
+        "published": "07 Dec 2025",
+        "skills": [
+            "Customer Service",
+            "Good communication skills in both English and Bangla",
+            "Outbound and Inbound Calls",
+            "patience and flexible",
+            "Proactive and Positive attitude",
+            "Telecommunication Products & Services"
+        ],
+        "category": "Management & Product"
+    },
+    {
+        "title": "Junior Software Engineer",
+        "company_name": "IT Scholar",
+        "deadline": "Deadline:17 Dec2025",
+        "url": "https://jobs.bdjobs.com/jobdetails/?id=1437197&fcatId=8&ln=1",
+        "responsibilities": [
+            "Develop, maintain, and optimize web applications using Python & Django.",
+            "Design and maintain RESTful APIs for internal and external use.",
+            "Work with relational databases (PostgreSQL/MySQL): schema design, writing efficient queries, performance tuning.",
+            "Collaborate with senior engineers, UI/UX team, and project managers to deliver high-quality software.",
+            "Debug, troubleshoot, and resolve technical issues across the full stack.",
+            "Write clean, modular, and reusable code following best practices.",
+            "Participate in code reviews and contribute to continuous improvement of development processes.",
+            "Assist in deployment, testing, and maintenance of software systems."
+        ],
+        "employment_status": "Full Time",
+        "education": [
+            "At IT Scholar, we believe skill, curiosity, and passion for coding matter more than degrees or certificates.",
+            "Whether you come from CSE, non-CSE, or no academic background at all, if you genuinely love programming and enjoy solving problems, we would love to meet you."
+        ],
+        "experience": [
+            "1 to 2 years",
+            "1 to 2 years",
+            "The applicants should have experience in the following business area(s): Software Company"
+        ],
+        "additional_requirements": [
+            "Rajshahi applicant only can apply this post.",
+            "1+ year of experience working with Python/PHP and Django/Laravel.",
+            "You can also apply if you are good at other stack like Laravel and flexible to chagne the stack.",
+            "Strong understanding of OOP principles and application design.",
+            "Solid knowledge of RDBMS (MySQL/PostgreSQL), including joins, indexing, constraints, transactions.",
+            "Experience building and integrating REST APIs.",
+            "Good understanding of Git / GitHub / GitLab.",
+            "Ability to analyze problems logically and implement effective solutions.",
+            "Basic knowledge of HTML, CSS, JavaScript (bonus but not compulsory).",
+            "Experience with Odoo is a big plus point."
+        ],
+        "vacancy": "Not specified",
+        "location": "Location: Rajshahi (Rajshahi Sadar)",
+        "age": "Not found",
+        "salary": "Tk. 12000 - 20000 (Monthly)",
+        "other_benefits": [],
+        "published": "07 Dec 2025",
+        "skills": [
+            "Laravel",
+            "PHP (OOP)",
+            "phython",
+            "RDMS",
+            "RESTful API"
+        ],
+        "category": "Software Engineering"
+    },
+    {
+        "title": "Full Stack Laravel Developer (Intern)",
+        "company_name": "Divino Marketing Agency",
+        "deadline": "Deadline:17 Dec2025",
+        "url": "https://jobs.bdjobs.com/jobdetails/?id=1437131&fcatId=8&ln=1",
+        "responsibilities": [
+            "Develop and maintain web applications using Laravel, PHP, and modern MVC practices.",
+            "Build interactive, responsive UI components using React and Tailwind CSS.",
+            "Work with RESTful APIs — creating new endpoints and integrating third-party services.",
+            "Collaborate using Git and GitHub for version control, code reviews, and project workflows.",
+            "Work with databases (MySQL/MariaDB) including migrations, Eloquent models, and query optimization.",
+            "Assist in building dashboards, admin panels, and automation tools for internal use.",
+            "Debug, test, and troubleshoot front-end and back-end issues.",
+            "Contribute to improving performance, security, and scalability across applications.",
+            "Work with designers to convert UI/UX concepts into pixel-perfect front-end components.",
+            "Stay updated with modern Laravel, JavaScript, and full stack development trends."
+        ],
+        "employment_status": "Internship",
+        "education": [
+            "Age At most 30 years"
+        ],
+        "experience": [],
+        "additional_requirements": [],
+        "vacancy": "Not specified",
+        "location": "Location: Bogura (Bogura Sadar)",
+        "age": "At most 30 years",
+        "salary": "Tk. 6000 - 8000 (Monthly)",
+        "other_benefits": [],
+        "published": "07 Dec 2025",
+        "skills": [
+            "Git and Github",
+            "HTML & CSS",
+            "JavaScript",
+            "Laravel",
+            "MySQL database",
+            "react.js",
+            "REST API",
+            "Tailwind CSS"
+        ],
+        "category": "Software Engineering"
+    },
+    {
+        "title": "Digital Marketing & Sales Executive",
+        "company_name": "Xerone IT",
+        "deadline": "Deadline:31 Dec2025",
+        "url": "https://jobs.bdjobs.com/jobdetails/?id=1436278&fcatId=8&ln=1",
+        "responsibilities": [
+            "Provide professional and timely technical support to customers via Chat, Email, and Live Demo Sessions.",
+            "Effectively troubleshoot and resolve general software issues, clearly guiding users through technical processes.",
+            "Engage with potential and existing clients to understand their needs, demonstrate product value, and support sales inquiries.",
+            "Maintain accurate records of customer interactions and escalate priority issues to the development team when necessary.",
+            "Plan and develop the content strategy, including conceptualizing visual content (videos/tutorials) and writing high-quality copy for blog posts, social media posts, website page contents, product documentation, and email newsletters.",
+            "Implement SEO (Search Engine Optimization) best practices in all content, conduct keyword research, and analyze performance to improve search rankings.",
+            "Stay up-to-date with the latest industry trends, competitor activities, and emerging digital strategies.",
+            "Tool Proficiency: Demonstrated ability to efficiently use digital marketing tools (e.g., Google Analytics, SEO/keyword research platforms, social media management tools, email marketing software, etc.) is essential."
+        ],
+        "employment_status": "Not found",
+        "education": [
+            "Bachelor/Honors"
+        ],
+        "experience": [
+            "At least 1 year",
+            "At least 1 year",
+            "The applicants should have experience in the following business area(s): Software Company, IT Enabled Service"
+        ],
+        "additional_requirements": [
+            "Age 18 to 30 years"
+        ],
+        "vacancy": "Not specified",
+        "location": "Location: Rajshahi (Rajshahi Sadar)",
+        "age": "18 to 30 years",
+        "salary": "Tk. 12000 - 24000 (Monthly)",
+        "other_benefits": [
+            "Performance bonus,Over time allowance,Weekly 2 holidays,Tour allowance",
+            "Lunch Facilities: Full Subsidize",
+            "Salary Review: Yearly",
+            "Festival Bonus: 2"
+        ],
+        "published": "07 Dec 2025",
+        "skills": [
+            "Customer Support",
+            "Excellent communication and presentation skills",
+            "Good English communication skills (verbal and Written)",
+            "Problem solving and decision making",
+            "SEO and Digital Marketing",
+            "Social Media Marketing (SMM)",
+            "Technical Sales/ IT Marketing",
+            "Technical Support Engineer"
+        ],
+        "category": "Marketing & Content"
+    },
+    {
+        "title": "IT Expert",
+        "company_name": "Lovely assets",
+        "deadline": "Deadline:27 Dec2025",
+        "url": "https://jobs.bdjobs.com/jobdetails/?id=1434293&fcatId=8&ln=1",
+        "responsibilities": [],
+        "employment_status": "Only Male",
+        "education": [
+            "Bachelor/Honors"
+        ],
+        "experience": [
+            "1 to 3 years",
+            "1 to 3 years",
+            "The applicants should have experience in the following business area(s): Computer Hardware/Network Companies"
+        ],
+        "additional_requirements": [
+            "Age 24 to 36 years"
+        ],
+        "vacancy": "Not specified",
+        "location": "Location: Dhaka (GULSHAN 2)",
+        "age": "24 to 36 years",
+        "salary": "Negotiable",
+        "other_benefits": [],
+        "published": "07 Dec 2025",
+        "skills": [],
+        "category": "IT Support & Hardware"
+    },
+    {
+        "title": "Area Manager (Sales)",
+        "company_name": "DG Infotech Limited",
+        "deadline": "Deadline:6 Jan2026",
+        "url": "https://jobs.bdjobs.com/jobdetails/?id=1437103&fcatId=8&ln=1",
+        "responsibilities": [
+            "Candidates should be capable to manage a sales team/outsourcing sales team also should have experience to the related field.",
+            "Should have vast experience of working in the different areas of Dhaka city.",
+            "Managing, training, and providing overall guidance to the sales team of assigned area and territory.",
+            "Setting reasonable sales targets to be achieved by the sales team.",
+            "Monitoring the performance of the sales team and motivating members to meet or exceed sales targets.",
+            "Collecting customer feedback and providing updates to senior management.",
+            "Ensuring the proper utilization of the resources through team members.",
+            "Developing and sustaining long-term relationships with customers."
+        ],
+        "employment_status": "Full Time",
+        "education": [
+            "Masters/Bachelor in any discipline."
+        ],
+        "experience": [
+            "2 to 3 years",
+            "2 to 3 years",
+            "The applicants should have experience in the following business area(s): IT Enabled Service, Pharmaceutical/Medicine Companies"
+        ],
+        "additional_requirements": [
+            "Age At least 30 years",
+            "Minimum 06 years' working experience in Pharmaceutical Sales.",
+            "Minimum 02 years' working experience as an Area Manager.",
+            "Strong computer skills, time-management, organizational and planning skills.",
+            "Proven high-level sales, sales management, and marketing skills.",
+            "Demonstrable ability to communicate and present to the customers."
+        ],
+        "vacancy": "Not specified",
+        "location": "Location: Dhaka (Gulshan)",
+        "age": "At least 30 years",
+        "salary": "Negotiable",
+        "other_benefits": [
+            "Mobile bill",
+            "Lunch Facilities: Partially Subsidize",
+            "Festival Bonus: 2"
+        ],
+        "published": "07 Dec 2025",
+        "skills": [],
+        "category": "Management & Product"
+    },
+    {
+        "title": "Business Development Intern",
+        "company_name": "Level Three",
+        "deadline": "Deadline:16 Dec2025",
+        "url": "https://jobs.bdjobs.com/jobdetails/?id=1437036&fcatId=8&ln=1",
+        "responsibilities": [
+            "Support lead generation, research and outreach",
+            "Communicate with clients and understand requirements",
+            "Present company services clearly and confidently",
+            "Assist in product demos, meetings and presentations",
+            "Maintain CRM, reporting and follow-up tasks",
+            "Work closely with Marketing, Sales and Technical teams",
+            "Support onboarding, training and post-sales communication"
+        ],
+        "employment_status": "Not found",
+        "education": [
+            "Bachelor/Honors",
+            "Bachelor of Business Administration (BBA)",
+            "Bachelor of Science (BSc)"
+        ],
+        "experience": [
+            "At most 1 year",
+            "At most 1 year",
+            "The applicants should have experience in the following business area(s): IT Enabled Service, Web Media/Blog, Business-to-Business (B2B) Software and Services Startup"
+        ],
+        "additional_requirements": [
+            "Age 22 to 30 years",
+            "Good communication skills in Bangla and English",
+            "Strong interest in technology and IT sales",
+            "Confident, energetic and willing to learn",
+            "Basic knowledge of digital tools is helpful"
+        ],
+        "vacancy": "Not specified",
+        "location": "Location: Dhaka (Mirpur Section 11)",
+        "age": "22 to 30 years",
+        "salary": "Tk. 5000 - 7000 (Monthly)",
+        "other_benefits": [
+            "Medical allowance",
+            "Salary Review: Yearly",
+            "Festival Bonus: 2",
+            "Monthly allowance based on skills",
+            "Possibility of full-time confirmation",
+            "Supportive work environment",
+            "Performance bonuses after confirmation",
+            "Certificate after completing training period"
+        ],
+        "published": "07 Dec 2025",
+        "skills": [],
+        "category": "Management & Product"
+    },
+    {
+        "title": "IT Officer",
+        "company_name": "A Reputed Garments Manufacturing Company in Bangladesh",
+        "deadline": "Deadline:6 Jan2026",
+        "url": "https://jobs.bdjobs.com/jobdetails/?id=1437085&fcatId=8&ln=1",
+        "responsibilities": [
+            "Installing and configuring computer hardware, software, systems, networks, printers and scanners.",
+            "Monitoring and maintaining CCTV systems.",
+            "Troubleshoot system and network problems, diagnosing and solving hardware or software faults.",
+            "Verify functionality of hardware and software components.",
+            "Repairing equipment and replacing parts, checking computer equipment for electrical safety.",
+            "Setting up accounts for staff, educate them on log in and resolve issues arising.",
+            "Planning and undertaking scheduled maintenance upgrades.",
+            "Restricting access to unauthorized site, downloads and users.",
+            "Coordinates IT purchases (hardware, software and services) to ensure effective deployment of solutions aligned with user needs.",
+            "Maintaining records of software licenses.",
+            "Cooperating HR team in maintaining ERP data.",
+            "Any other task assigned by the management."
+        ],
+        "employment_status": "Full Time",
+        "education": [
+            "Bachelor of Science (BSc) in Computer Science & Engineering"
+        ],
+        "experience": [
+            "3 to 5 years",
+            "3 to 5 years",
+            "The applicants should have experience in the following business area(s): Garments, Textile"
+        ],
+        "additional_requirements": [],
+        "vacancy": "Not specified",
+        "location": "Location: Chattogram (Agrabad)",
+        "age": "Not found",
+        "salary": "Negotiable",
+        "other_benefits": [
+            "Mobile bill,Gratuity,Insurance,Medical allowance,Provident fund",
+            "Salary Review: Yearly",
+            "Festival Bonus: 2"
+        ],
+        "published": "07 Dec 2025",
+        "skills": [
+            "Computer Troubleshooting",
+            "Hardware & Networking",
+            "IT Support Service"
+        ],
+        "category": "Other / Uncategorized"
+    },
+    {
+        "title": "Assistant Manager (IT)",
+        "company_name": "M.S. Dyeing, Printing & Finishing Ltd.",
+        "deadline": "Deadline:20 Dec2025",
+        "url": "https://jobs.bdjobs.com/jobdetails/?id=1437037&fcatId=8&ln=1",
+        "responsibilities": [
+            "Monitor and maintain the organization`s server, network infrastructure and connectivity to ensure optimal performance and availability.",
+            "Install and configure PCs with Windows and Linux.",
+            "Practical knowledge of networking, desktop/laptop configuration, and troubleshooting.",
+            "Administer and monitoring network infrastructure, as well as its security systems.",
+            "Set up network printers, shared drives. Monitor internet speed, bandwidth usage, and website access.",
+            "Configure and support email systems (Gmail, Microsoft Outlook) and Support attendance system devices (e.g., ZKTeco.",
+            "Maintain, Install, configure CCTV surveillance systems for security monitoring and access control systems to ensure secure physical and digital access.",
+            "Configure and manage organization’s Ip phone services, email server and ensure secure communication, monitor spam filters, backup policies, and user mailboxes.",
+            "VLAN Configuration & Manage.",
+            "Mikrotik Configuration & Manage Bandwidth Firewall, G-Suite & Microsoft 365 Manage.",
+            "3CX Server configuration.",
+            "Vmware ESXI Configuration & Manage.",
+            "Security surveillance & Access Control device configuration.",
+            "ADDS Configuration & Manage policy.",
+            "Monitor IT product prices and support procurement decisions."
+        ],
+        "employment_status": "Not found",
+        "education": [
+            "Bachelor of Science (BSc)",
+            "Master of Science (MSc)"
+        ],
+        "experience": [
+            "3 to 7 years",
+            "3 to 7 years",
+            "The applicants should have experience in the following business area(s): Garments, Textile"
+        ],
+        "additional_requirements": [
+            "Age 30 to 40 years"
+        ],
+        "vacancy": "Not specified",
+        "location": "Location: Narayanganj",
+        "age": "30 to 40 years",
+        "salary": "Negotiable",
+        "other_benefits": [
+            "Mobile bill",
+            "Salary Review: Yearly",
+            "Festival Bonus: 2"
+        ],
+        "published": "06 Dec 2025",
+        "skills": [
+            "Strong organizational and communication skills. Ability to multit"
+        ],
+        "category": "Management & Product"
+    },
+    {
+        "title": "Executive / Jr. Executive- IT",
+        "company_name": "Ashiyan Medical College Hospital, Dhaka",
+        "deadline": "Deadline:5 Jan2026",
+        "url": "https://jobs.bdjobs.com/jobdetails/?id=1436948&fcatId=8&ln=1",
+        "responsibilities": [
+            "Network Monitoring.",
+            "Server Maintenance.",
+            "CCTV monitoring with installation.",
+            "Printer sharing & network printer installation.",
+            "POS machine with cash drawer installation & maintenance.",
+            "Work with existing software.",
+            "Communication Skill (English & Bengali)."
+        ],
+        "employment_status": "Dhaka",
+        "education": [
+            "Diploma in Engineering in Computer Science & Engineering",
+            "Bachelor of Science (BSc) in Computer Science & Engineering"
+        ],
+        "experience": [
+            "At least 2 years",
+            "At least 2 years",
+            "The applicants should have experience in the following business area(s): Manufacturing (FMCG), College, Development Agency, Hospital, Food (Packaged)/Beverage, Group of Companies, Clinic"
+        ],
+        "additional_requirements": [
+            "Age 25 to 37 years"
+        ],
+        "vacancy": "Not specified",
+        "location": "Location: Dhaka",
+        "age": "25 to 37 years",
+        "salary": "Tk. 20000 - 25000 (Monthly)",
+        "other_benefits": [],
+        "published": "06 Dec 2025",
+        "skills": [],
+        "category": "Other / Uncategorized"
+    },
+    {
+        "title": "Digital Marketing & IT Expert",
+        "company_name": "Ningbo GNL BD",
+        "deadline": "Deadline:5 Jan2026",
+        "url": "https://jobs.bdjobs.com/jobdetails/?id=1436869&fcatId=8&ln=1",
+        "responsibilities": [],
+        "employment_status": "Khulna (Khulna Sadar)",
+        "education": [
+            "Bachelor/Honors"
+        ],
+        "experience": [
+            "At least 1 year",
+            "At least 1 year",
+            "The applicants should have experience in the following business area(s): Electronic Equipment/Home Appliances",
+            "Freshers are also encouraged to apply."
+        ],
+        "additional_requirements": [
+            "Managing Facebook, LinkedIn, Instagram, Youtube and other platforms",
+            "Creating and scheduling posts, ads, and campaigns",
+            "Understanding of how search engines work",
+            "Basic on-page and off-page SEO knowledge",
+            "Writing engaging content for posts, emails, and websites",
+            "Good grammar and writing in English",
+            "Experience with tools like Mailchimp or other email platforms",
+            "Building and managing mailing lists",
+            "Using tools like Adobe Photoshop, Canva, or similar",
+            "Basic video production using tools like Adobe Premiere Pro, CapCut, or similar",
+            "Knowledge of website platforms like WordPress or Wix",
+            "Understanding basic HTML/CSS is a plus",
+            "Creating and managing client or lead databases",
+            "Tools like Blender, After Effects, or 3ds Max",
+            "Strong English communication skills (writing & speaking)",
+            "Analytical thinking for understanding data and campaign performance",
+            "Creativity for visual and written content",
+            "Attention to detail",
+            "Teamwork and collaboration",
+            "Time management and ability to meet deadlines"
+        ],
+        "vacancy": "Not specified",
+        "location": "Location: Khulna (Khulna Sadar)",
+        "age": "Not found",
+        "salary": "Negotiable",
+        "other_benefits": [],
+        "published": "06 Dec 2025",
+        "skills": [
+            "Content Creation",
+            "Photo Editing",
+            "Search Engine Optimization (SEO)",
+            "Technical Skills",
+            "Video Editing",
+            "Website Management"
+        ],
+        "category": "Marketing & Content"
+    },
+    {
+        "title": "A2P SMS Aggregator - Technical & Operations Expert( Sr. System Engineer)",
+        "company_name": "Goni Group",
+        "deadline": "Deadline:5 Jan2026",
+        "url": "https://jobs.bdjobs.com/jobdetails/?id=1436959&fcatId=8&ln=1",
+        "responsibilities": [
+            "Configure, manage, and operate the A2P SMS gateway (SMPP / HTTP / API-based systems).",
+            "Monitor message traffic, delivery rate (DLR), latency, and throughput performance.",
+            "Ensure stable, high-speed, and error-free message transmission.",
+            "Optimize routing for best quality based on operator and traffic type (OTP, Transactional, Promotional).",
+            "Ensure full compliance with BTRC regulations and operator policies (Grameenphone, Robi, Banglalink, Teletalk).",
+            "Monitor and prevent grey routes, illegal traffic, and spam content.",
+            "Maintain a record of approved content, sender ID, and templates.",
+            "Maintain operational and technical communication with mobile network operators.",
+            "Manage interconnection issues, routing failover, and link stability.",
+            "Work with vendors and technology partners for upgrades and troubleshooting.",
+            "Provide API and SMPP integration support to corporate/enterprise clients.",
+            "Troubleshoot delivery issues, DLR mismatch, and performance problems.",
+            "Provide Level-2/Level-3 technical support to key clients.",
+            "Manage and monitor Linux-based VPS / Dedicated Servers / Cloud platforms.",
+            "Handle database systems (MySQL/PostgreSQL) and server optimization.",
+            "Ensure data security, backup, uptime, firewall, and DDoS protection.",
+            "Conduct regular system health checks and maintenance.",
+            "Provide data support to the Accounts & Finance team for client billing.",
+            "Log in to cPanel, Plesk, or DirectAdmin.",
+            "Install an SSL certificate to ensure HTTPS security.",
+            "Upload the website files using File Manager or FTP.",
+            "Set up and configure the MySQL database.",
+            "Install WordPress, Laravel, or a custom-built website",
+            "Recommend and implement system upgrades, new features, and automation."
+        ],
+        "employment_status": "Full Time",
+        "education": [
+            "Bachelor of Science (BSc) in Electronics and Telecommunication Engineering",
+            "Bachelor of Science (BSc) in Computer Science & Engineering",
+            "Bachelor of Science (BSc) in Electrical & Electronic Engineering"
+        ],
+        "experience": [
+            "5 to 6 years",
+            "5 to 6 years"
+        ],
+        "additional_requirements": [
+            "Age At least 28 years",
+            "Experience in the A2P SMS / Telecom / Messaging industry.",
+            "Strong knowledge of SMPP, SS7, HTTP APIs and Routing systems.",
+            "Solid knowledge of Linux Server (Ubuntu/CentOS), MySQL and Networking.",
+            "Practical understanding of BTRC regulations & operator compliance.",
+            "Experience in dealing with Telco operators (GP, Robi, Banglalink, Teletalk).",
+            "Strong analytical, troubleshooting, and problem-solving abilities.",
+            "Excellent documentation and reporting skills.",
+            "CCNA / Networking Certification Experience with SMS platforms like: Kannel, Jasmin, Twilio, Infobip, or similar.",
+            "Cloud experience (AWS, Google Cloud, Azure, DigitalOcean), Experience in large-volume messaging systems"
+        ],
+        "vacancy": "Not specified",
+        "location": "Location: Dhaka",
+        "age": "At least 28 years",
+        "salary": "Not found",
+        "other_benefits": [
+            "Salary Review: Yearly",
+            "Lunch Facilities: Full Subsidize",
+            "Festival Bonus: 2"
+        ],
+        "published": "06 Dec 2025",
+        "skills": [],
+        "category": "Data & AI"
+    },
+    {
+        "title": "Digital Marketing Officer",
+        "company_name": "Ningbo GSK Automobile",
+        "deadline": "Deadline:5 Jan2026",
+        "url": "https://jobs.bdjobs.com/jobdetails/?id=1436944&fcatId=8&ln=1",
+        "responsibilities": [
+            "Managing Facebook, LinkedIn, Instagram, Youtube and other platforms",
+            "Creating and scheduling posts, ads, and campaigns",
+            "Understanding of how search engines work",
+            "Basic on-page and off-page SEO knowledge",
+            "Writing engaging content for posts, emails, and websites",
+            "Good grammar and writing in English",
+            "Experience with tools like Mailchimp or other email platforms",
+            "Building and managing mailing lists",
+            "Using tools like Adobe Photoshop, Canva, or similar",
+            "Basic video production using tools like Adobe Premiere Pro, CapCut, or similar",
+            "Knowledge of website platforms like WordPress or Wix",
+            "Understanding basic HTML/CSS is a plus",
+            "Excel/Google Sheets",
+            "Creating and managing client or lead databases",
+            "Tools like Blender, After Effects, or 3ds Max"
+        ],
+        "employment_status": "Khulna (Khulna Sadar)",
+        "education": [
+            "Bachelor/Honors"
+        ],
+        "experience": [
+            "At least 1 year",
+            "At least 1 year",
+            "The applicants should have experience in the following business area(s): IT Enabled Service, BPO/ Data Entry Firm, Artificial Intelligence (AI) Startup"
+        ],
+        "additional_requirements": [
+            "Strong English communication skills (writing & speaking)",
+            "Analytical thinking for understanding data and campaign performance",
+            "Creativity for visual and written content",
+            "Attention to detail",
+            "Teamwork and collaboration",
+            "Time management and ability to meet deadlines"
+        ],
+        "vacancy": "Not specified",
+        "location": "Location: Khulna (Khulna Sadar)",
+        "age": "Not found",
+        "salary": "Negotiable",
+        "other_benefits": [],
+        "published": "06 Dec 2025",
+        "skills": [],
+        "category": "Marketing & Content"
+    },
+    {
+        "title": "Web Developer [PHP/Laravel]",
+        "company_name": "Energy+ Electric & Electronics Pvt. Ltd.",
+        "deadline": "Deadline:4 Jan2026",
+        "url": "https://jobs.bdjobs.com/jobdetails/?id=1436943&fcatId=8&ln=1",
+        "responsibilities": [
+            "The candidate will be responsible for design, developing and maintaining corporate websites & e-commerce platforms.",
+            "Website Design & Development: Develop, design, and maintain responsive websites using HTML5, CSS3, SASS, Bootstrap, JavaScript, jQuery, PHP (OOP) & Laravel frameworks.",
+            "UI/UX Implementation: Convert design mockups from Figma, Adobe XD, Photoshop, or Illustrator into fully functional, responsive web interfaces ensuring cross-browser and mobile compatibility.",
+            "Integration: Integrate third-party APIs and payment gateways.",
+            "Database & Server Management: Design, maintain, and optimize MySQL databases; implement efficient code and database queries for fast website performance and scalability.",
+            "E-Commerce experience preferable."
+        ],
+        "employment_status": "Not found",
+        "education": [
+            "Bachelor of Science (BSc) in Computer Science & Engineering"
+        ],
+        "experience": [
+            "At least 2 years",
+            "At least 2 years",
+            "The applicants should have experience in the following business area(s): IT Enabled Service"
+        ],
+        "additional_requirements": [
+            "Age 25 to 30 years"
+        ],
+        "vacancy": "Not specified",
+        "location": "Location: Dhaka (Purana Paltan)",
+        "age": "25 to 30 years",
+        "salary": "Negotiable",
+        "other_benefits": [],
+        "published": "06 Dec 2025",
+        "skills": [
+            "Web Design",
+            "Web Development"
+        ],
+        "category": "Software Engineering"
+    },
+    {
+        "title": "Officer- IT",
+        "company_name": "A Reputed Group of Company",
+        "deadline": "Deadline:31 Dec2025",
+        "url": "https://jobs.bdjobs.com/jobdetails/?id=1436927&fcatId=8&ln=1",
+        "responsibilities": [
+            "Network Management & Security:\nMaintain and configure corporate LAN/WAN, including routers (MikroTik, Cisco, Juniper), switches, firewalls, and wireless systems (Ruckus).\nManage network services: VLANs, VPNs, Wi-Fi, and internet connectivity (liaising with ISPs).\nImplement and manage security measures: firewalls, antivirus (ESET), and access controls to protect data.",
+            "Maintain and configure corporate LAN/WAN, including routers (MikroTik, Cisco, Juniper), switches, firewalls, and wireless systems (Ruckus).",
+            "Manage network services: VLANs, VPNs, Wi-Fi, and internet connectivity (liaising with ISPs).",
+            "Implement and manage security measures: firewalls, antivirus (ESET), and access controls to protect data.",
+            "Unified Communications & Telephony:\nInstall, configure, and support IP PABX phone systems (inbound/outbound call routing).\nSet up and troubleshoot IP phones (Cisco, Yealink, etc.) and configure SIP trunks.",
+            "Install, configure, and support IP PABX phone systems (inbound/outbound call routing).",
+            "Set up and troubleshoot IP phones (Cisco, Yealink, etc.) and configure SIP trunks.",
+            "Hardware & Software Support:\nProvide hands-on support for all end-user equipment: desktops, laptops (Windows/Mac), printers, and other peripherals.\nInstall and configure operating systems (Windows, Linux, macOS) and business software (Tally ERP, Odoo, Zkteco apps).",
+            "Provide hands-on support for all end-user equipment: desktops, laptops (Windows/Mac), printers, and other peripherals.",
+            "Install and configure operating systems (Windows, Linux, macOS) and business software (Tally ERP, Odoo, Zkteco apps).",
+            "Specialized System Support:\nAccess Control: Service and support for Aratek and Zkteco biometric (fingerprint/face) systems.\nCCTV Surveillance: Installation and support for IP camera systems (Dahua/Hikvision mandatory).\nAudio/Video: Support for video conferencing systems, IP sound systems (e.g., for a radio station), and conference room tech (OPS/IFP devices).",
+            "Access Control: Service and support for Aratek and Zkteco biometric (fingerprint/face) systems.",
+            "CCTV Surveillance: Installation and support for IP camera systems (Dahua/Hikvision mandatory).",
+            "Audio/Video: Support for video conferencing systems, IP sound systems (e.g., for a radio station), and conference room tech (OPS/IFP devices).",
+            "Server & Infrastructure Administration:\nMaintain servers running Windows Server and Ubuntu.\nManage mail servers (e.g., Exchange), web servers (cPanel), and databases (Oracle, MySQL).\nPerform basic data center tasks: cabling, patching, and rack maintenance.",
+            "Maintain servers running Windows Server and Ubuntu.",
+            "Manage mail servers (e.g., Exchange), web servers (cPanel), and databases (Oracle, MySQL).",
+            "Perform basic data center tasks: cabling, patching, and rack maintenance.",
+            "Additional Duties:\nIT Budgeting: Assist with budgeting and market analysis for IT purchases.\nVendor Coordination: Liaise with external vendors and service providers.\nChinese App Proficiency: Mandatory experience with WeChat, Zoom, VOOV for coordinating meetings.",
+            "IT Budgeting: Assist with budgeting and market analysis for IT purchases.",
+            "Vendor Coordination: Liaise with external vendors and service providers.",
+            "Chinese App Proficiency: Mandatory experience with WeChat, Zoom, VOOV for coordinating meetings."
+        ],
+        "employment_status": "Not found",
+        "education": [
+            "Diploma in Computer in Computer Science & Engineering",
+            "Bachelor of Science (BSc) in Computer Science & Engineering",
+            "Master of Science (MSc) in Computer Science & Engineering"
+        ],
+        "experience": [
+            "2 to 5 years",
+            "2 to 5 years",
+            "The applicants should have experience in the following business area(s): IT Enabled Service, Group of Companies"
+        ],
+        "additional_requirements": [
+            "Age At least 25 years",
+            "CNet Training / Structured LAN / Network 101.",
+            "Networking: CCNA, CCNP, JNCIA, MTCNA, MTCRE, or Ruckus.",
+            "IP Telephony Server OS.",
+            "PCVE (preferred).",
+            "Tally ERP software.",
+            "Modern Conferencing Systems (Polycom, Rally).",
+            "DSPPA AEO Certificate."
+        ],
+        "vacancy": "Not specified",
+        "location": "Location: Anywhere in Bangladesh",
+        "age": "At least 25 years",
+        "salary": "Negotiable",
+        "other_benefits": [
+            "Mobile bill,Tour allowance",
+            "Salary Review: Yearly",
+            "Lunch Facilities: Partially Subsidize",
+            "Festival Bonus: 2",
+            "Annual Leave"
+        ],
+        "published": "06 Dec 2025",
+        "skills": [],
+        "category": "Other / Uncategorized"
+    },
+    {
+        "title": "আইটি সহকারী",
+        "company_name": "আর্মি ইন্সটিটিউট অব বিজনেস এ্যাডমিনিস্ট্রেশন, সিলেট",
+        "deadline": "Deadline:31 Dec2025",
+        "url": "https://jobs.bdjobs.com/jobdetails/?id=1434175&fcatId=8&ln=1",
+        "responsibilities": [
+            "আলাদাভাবে প্রদান করা হবে (এআইবিএ স্থায়ী নির্দেশাবলী অনুযায়ী)।"
+        ],
+        "employment_status": "Full Time",
+        "education": [
+            "Diploma in Computer",
+            "সরকার অনুমোদিত বিশ্ববিদ্যালয়/কলেজ থেকে ডিপ্লোমা ইন কম্পিউটার সাইন্স এন্ড টেকনোলোজি/ইনফরমেশন টেকনোলোজি ডিগ্রিধারী।",
+            "উচ্চতর ডিগ্রি/প্রশিক্ষণ এবং দক্ষতা সম্পন্ন প্রার্থী অগ্রাধীকারযোগ্য।"
+        ],
+        "experience": [
+            "Age At most 30 years",
+            "কোন বিশ্ববিদ্যারয়/সরকারি/সায়ত্ত্বশাসিত প্রতিষ্ঠানে সংশ্লিষ্ট কাজে অভিজ্ঞতাসম্পন্ন প্রার্থী অগ্রাধীকারযোগ্য।"
+        ],
+        "additional_requirements": [],
+        "vacancy": "Not specified",
+        "location": "Location: Sylhet",
+        "age": "At most 30 years",
+        "salary": "Not found",
+        "other_benefits": [
+            "উৎসব ভাতা।",
+            "বাংলা নববর্ষ ভাতা।",
+            "গ্রাচুইটি।",
+            "মেডিক্যাল ইন্সুরেন্স (নির্বাচিত রোগ/অক্ষমতা)।"
+        ],
+        "published": "06 Dec 2025",
+        "skills": [],
+        "category": "Other / Uncategorized"
+    },
+    {
+        "title": "Section Officer (IT)",
+        "company_name": "Feni University (FU)",
+        "deadline": "Deadline:20 Dec2025",
+        "url": "https://jobs.bdjobs.com/jobdetails/?id=1436800&fcatId=8&ln=1",
+        "responsibilities": [
+            "Installing and configuring computer hardware, operating systems, and applications;",
+            "Monitoring and maintaining computer systems and networks;",
+            "Conducting electrical safety checks on computer hardware and equipment;",
+            "Talking staff or students through a series of actions, either face-to-face or over the telephone, to help set up systems or resolve issues;",
+            "Maintaining the University’s i-EMS attendance module as well as the fingerprint machine.",
+            "Troubleshooting system and network problems and diagnosing and solving hardware or software faults;",
+            "Providing support, including procedural documentation and relevant reports;",
+            "Setting up new users' accounts and profiles and dealing with password issues;",
+            "Testing and evaluating new technology;",
+            "Do all required and related activities assigned by the authorities.",
+            "All tasks assigned by the authority."
+        ],
+        "employment_status": "Full Time",
+        "education": [
+            "B.Sc./M.Sc. in Computer Science and Engineering with 1st class/A-Grade in all academic levels Practical experienced candidates in the IT related field will be given preference."
+        ],
+        "experience": [
+            "Good interpersonal skills in English and Bengali, both oral and written."
+        ],
+        "additional_requirements": [],
+        "vacancy": "Not specified",
+        "location": "Location: Feni",
+        "age": "Not found",
+        "salary": "Not found",
+        "other_benefits": [
+            "As per FU pay Scale."
+        ],
+        "published": "06 Dec 2025",
+        "skills": [],
+        "category": "Management & Product"
+    },
+    {
+        "title": "Executive, IT",
+        "company_name": "Ajker Patrika",
+        "deadline": "Deadline:26 Dec2025",
+        "url": "https://jobs.bdjobs.com/jobdetails/?id=1433976&fcatId=8&ln=1",
+        "responsibilities": [
+            "Monitor and maintain the organization’s network infrastructure.",
+            "Manage and install software across user devices and systems.",
+            "Provide hardware and software support to end users.",
+            "Oversee day-to-day operations of the data center, ensuring system availability and security."
+        ],
+        "employment_status": "Not found",
+        "education": [
+            "Bachelor of Science (BSc) in Computer Science & Engineering"
+        ],
+        "experience": [
+            "At least 2 years",
+            "At least 2 years",
+            "The applicants should have experience in the following business area(s): Newspaper/Magazine, Group of Companies, Online Newspaper/ News Portal"
+        ],
+        "additional_requirements": [
+            "Strong understanding of computer hardware components and troubleshooting.",
+            "Basic knowledge of networking, including configuration and maintenance.",
+            "Willingness and ability to work at any time during emergencies or critical situations."
+        ],
+        "vacancy": "Not specified",
+        "location": "Location: Dhaka (Banasree)",
+        "age": "Not found",
+        "salary": "Not found",
+        "other_benefits": [
+            "Lunch Facilities: Partially Subsidize",
+            "Salary Review: Yearly",
+            "Festival Bonus: 2"
+        ],
+        "published": "27 Nov 2025",
+        "skills": [
+            "Computer Hardware Troubleshooting",
+            "IT Support Service and Network engineering.",
+            "Microsoft Office",
+            "Microtik",
+            "Windows Server"
+        ],
+        "category": "Other / Uncategorized"
+    },
+    {
+        "title": "Jr. Java Developer",
+        "company_name": "ORBUND",
+        "deadline": "Deadline:10 Jan2026",
+        "url": "https://jobs.bdjobs.com/jobdetails/?id=1438928&fcatId=8&ln=1",
+        "responsibilities": [
+            "Analyze, troubleshoot, and resolve quick-fix issues reported by users or internal teams.",
+            "Provide timely support for production incidents to ensure minimal downtime and smooth system performance.",
+            "Work closely with the QA, Product, and Development teams to identify root causes and apply effective solutions.",
+            "Implement small-scale enhancements, patches, and bug fixes within short turnaround times.",
+            "Ensure all fixes follow coding standards, security guidelines, and best practices.",
+            "Document all fixes, changes, and updates clearly for future reference.",
+            "Monitor application performance and proactively identify areas needing immediate improvement.",
+            "Participate in code reviews and maintain clean, efficient, and testable code.",
+            "Collaborate with team members to prioritize tasks based on urgency and impact.",
+            "Support continuous improvement by suggesting optimizations and preventative measures to reduce recurring issues."
+        ],
+        "employment_status": "Not found",
+        "education": [
+            "Bachelor of Science (BSc) in Computer Science & Engineering",
+            "Bachelor of Science (BSc) in Computer Science",
+            "Related field"
+        ],
+        "experience": [
+            "1 to 5 years",
+            "1 to 5 years",
+            "The applicants should have experience in the following business area(s): Software Company",
+            "Freshers are also encouraged to apply."
+        ],
+        "additional_requirements": [
+            "Age 22 to 38 years",
+            "Strong communication skills in English (both written and spoken) will be a Big Plus in the selection process.",
+            "Sound Interpersonal and Team working skills.",
+            "Ability to take on Multiple Assignments.",
+            "An approach of Work Smart rather than Work Hard.",
+            "Should be able to work extended hours when needed.",
+            "Experience is relaxed for Talented Candidates.",
+            "Candidates` area of experiences can be anywhere where Web Development, and Application Development is widely used."
+        ],
+        "vacancy": "Not specified",
+        "location": "Location: Dhaka (Mohammadpur)",
+        "age": "22 to 38 years",
+        "salary": "Negotiable",
+        "other_benefits": [
+            "Weekly 2 holidays",
+            "Lunch Facilities: Full Subsidize",
+            "Salary Review: Yearly",
+            "Festival Bonus: 2",
+            "Very Friendly and Creative Environment",
+            "Selective Public holidays",
+            "Annual leaves (10 Sick Leaves and 10 Casual Leaves)",
+            "Lunch & Evening Snacks are on the house by the Company.",
+            "Unlimited Coffee and Tea",
+            "Annual Picnic"
+        ],
+        "published": "11 Dec 2025",
+        "skills": [
+            "Communication in English",
+            "Eclipse IDE",
+            "Git and Github",
+            "HTML5 & CSS3",
+            "Java EE/ J2EE",
+            "JavaScript",
+            "jQuery",
+            "JSP",
+            "MySQL",
+            "OOP design patterns"
+        ],
+        "category": "Software Engineering"
+    },
+    {
+        "title": "AI Engineer -Executive",
+        "company_name": "One Information and Communications Technology Ltd",
+        "deadline": "Deadline:10 Jan2026",
+        "url": "https://jobs.bdjobs.com/jobdetails/?id=1438702&fcatId=8&ln=1",
+        "responsibilities": [
+            "Architect, deploy, and maintain LLM inference and RAG systems designed for high concurrency and horizontal scaling.",
+            "Build and optimize context management and memory systems to reduce token usage and improve performance.",
+            "Develop and tune fine-tuning pipelines, including LoRA, QLoRA, PEFT, DPO, and quantization.",
+            "Create clean, responsive frontend interfaces for AI-first applications.",
+            "Manage and optimize Linux-based production environments with strong performance and reliability.",
+            "Apply best practices in distributed systems, including caching, shading, load balancing, and autoscaling.",
+            "Collaborate with research and product teams to translate needs into robust LLM-driven solutions.",
+            "Develop, train, and deploy machine learning and deep learning models for business applications.",
+            "Analyze large datasets to extract insights and improve decision-making processes.",
+            "Design and implement end-to-end AI solutions from data preprocessing to production deployment.",
+            "Collaborate with software, data, and product teams to integrate AI models into existing systems.",
+            "Optimize model performance, accuracy, and scalability using industry-standard tools and framework",
+            "Any others task assigned by HoD."
+        ],
+        "employment_status": "Not found",
+        "education": [
+            "Bachelor of Science (BSc) in Computer Science & Engineering"
+        ],
+        "experience": [
+            "At most 1 year",
+            "At most 1 year",
+            "The applicants should have experience in the following business area(s): Software Company, IT Enabled Service"
+        ],
+        "additional_requirements": [
+            "Age 22 to 30 years",
+            "Ollama, Advanced Transformation architecture, Linux Server programming, Langchain."
+        ],
+        "vacancy": "Not specified",
+        "location": "Location: Dhaka",
+        "age": "22 to 30 years",
+        "salary": "Negotiable",
+        "other_benefits": [
+            "Mobile bill,Weekly 2 holidays",
+            "Lunch Facilities: Partially Subsidize",
+            "Salary Review: Yearly",
+            "Festival Bonus: 2"
+        ],
+        "published": "11 Dec 2025",
+        "skills": [],
+        "category": "Data & AI"
+    },
+    {
+        "title": "UI/UX Graphics Designer",
+        "company_name": "uFirst Limited",
+        "deadline": "Deadline:21 Dec2025",
+        "url": "https://jobs.bdjobs.com/jobdetails/?id=1438959&fcatId=8&ln=1",
+        "responsibilities": [
+            "Proficiency in Figma, Adobe XD, Sketch, Illustrator, or similar tools.",
+            "Design social media posts, banners, flyers, brochures, posters, and promotional materials.",
+            "Develop branding materials including logos, colour palettes, and brand identity assets.",
+            "Design user-friendly interfaces for web and mobile applications.",
+            "Strong portfolio showcasing design skills (web & mobile).",
+            "Create wireframes, user flows, prototypes, and interactive mock-ups.",
+            "Develop visually appealing layouts, icons, and UI assets.",
+            "Work with the marketing and development teams to ensure visual consistency across all platforms.",
+            "Knowledge of HTML/CSS (basic understanding) is a plus but not mandatory.",
+            "Optimize interfaces for usability, responsiveness, and accessibility.",
+            "Work closely with cross-functional teams (Product, Marketing, Development).",
+            "Stay updated with modern design trends, tools, and best practices."
+        ],
+        "employment_status": "Not found",
+        "education": [
+            "Bachelor of Arts (BA)"
+        ],
+        "experience": [
+            "1 to 3 years",
+            "1 to 3 years",
+            "The applicants should have experience in the following business area(s): Software Company, IT Enabled Service, BPO/ Data Entry Firm, Artificial Intelligence (AI) Startup, Business-to-Business (B2B) Software and Services Startup"
+        ],
+        "additional_requirements": [
+            "Age 21 to 30 years",
+            "Knowledge of motion graphics or video editing (CapCut/After Effects / Premiere Pro) is an advantage."
+        ],
+        "vacancy": "Not specified",
+        "location": "Location: Dhaka (Mohammadpur)",
+        "age": "21 to 30 years",
+        "salary": "Negotiable",
+        "other_benefits": [
+            "Profit share,Tour allowance",
+            "Festival Bonus: 2"
+        ],
+        "published": "11 Dec 2025",
+        "skills": [
+            "Adobe After Effects",
+            "Adobe Illustrator",
+            "Adobe Photoshop",
+            "Adobe XD",
+            "Canva",
+            "Capcut",
+            "Figma"
+        ],
+        "category": "Design & Creative"
+    },
+    {
+        "title": "Computer Operator (Manpower Export Company)",
+        "company_name": "Mridha International Corporation",
+        "deadline": "Deadline:9 Jan2026",
+        "url": "https://jobs.bdjobs.com/jobdetails/?id=1438684&fcatId=8&ln=1",
+        "responsibilities": [
+            "Design posters, banners, brochures, flyers, ID Cards, Business Cards, social media graphics, and other marketing materials",
+            "Edit videos for promotional, training, and social media purposes using professional video editing tools",
+            "Creating professional presentations, reports, and documents",
+            "Windows installation, driver updates, antivirus, and system configuration",
+            "Printer setup, Wi-Fi troubleshooting, and network support",
+            "Enter, update, and manage data accurately in ERP systems and company databases",
+            "Managing biometric attendance/finger punch machines, ERP software system",
+            "Assist in managing local servers, shared drives, and system backups",
+            "Diagnose and resolve hardware, software, and network issues",
+            "Set up and maintain stable internet connections for the office environment",
+            "Monitor for potential threats, vulnerabilities, or breaches",
+            "Provide IT support to company management and staffs for software, email, and system-related issues"
+        ],
+        "employment_status": "Not found",
+        "education": [
+            "Higher Secondary",
+            "Bachelor of Science (BSc) in Computer Science & Engineering"
+        ],
+        "experience": [
+            "At least 5 years",
+            "At least 5 years",
+            "The applicants should have experience in the following business area(s): Multinational Companies, Engineering Firms, Manpower Recruitment, Group of Companies"
+        ],
+        "additional_requirements": [
+            "Age At least 30 years",
+            "Proficiency in MS Office (Word, Excel, PowerPoint), Adobe Photoshop, Illustrator",
+            "Professional Video Editing and Graphic Design skills",
+            "ERP Software Management skills",
+            "Strong analytical and problem-solving abilities",
+            "Excellent communication and interpersonal skills",
+            "Smart, proactive and reliable",
+            "Manpower Recruitment (Overseas) Company experience will get preference"
+        ],
+        "vacancy": "Not specified",
+        "location": "Location: Dhaka",
+        "age": "At least 30 years",
+        "salary": "Negotiable",
+        "other_benefits": [],
+        "published": "11 Dec 2025",
+        "skills": [
+            "Adobe Illustrator",
+            "Adobe Photoshop",
+            "Cyber Security Management",
+            "ERP Software",
+            "Graphic Design",
+            "Hardware and Software management",
+            "MS Office",
+            "Networking",
+            "Server Management",
+            "Video Editing"
+        ],
+        "category": "IT Support & Hardware"
+    },
+    {
+        "title": "Senior Executive Rollout (Operations Team)",
+        "company_name": "DG Infotech Limited",
+        "deadline": "Deadline:10 Jan2026",
+        "url": "https://jobs.bdjobs.com/jobdetails/?id=1438890&fcatId=8&ln=1",
+        "responsibilities": [
+            "Plan and execute rollout strategies for digital solutions.",
+            "Coordinate deployment phases, timelines, and deliverables across internal teams and client stakeholders.",
+            "Oversee configuration, integration, and technical onboarding for clients.",
+            "Track post-deployment performance, identify issues, and ensure smooth functioning of live projects.",
+            "Conduct user training, documentation handover, and operational SOP implementation.",
+            "Assist in UAT, pilot launches, and full-scale rollouts.",
+            "Act as the operations point-of-contact for government agencies, enterprises, and partners.",
+            "Work with development teams to resolve technical issues, bugs, or integration challenges.",
+            "Translate operational challenges into actionable technical feedback.",
+            "Support quality assurance for new product features before rollout."
+        ],
+        "employment_status": "Not found",
+        "education": [
+            "Bachelor of Science (BSc) in Computer Engineering",
+            "Master of Science (MSc) in Communication Engineering",
+            "Strong understanding of software development lifecycle (SDLC) and deployment work flows.",
+            "Good technical knowledge of networking, APIs, SDKs, servers, and basic IT infrastructure.",
+            "Experience coordinating with developers, QA, support teams, and engaging with external clients or government entities (preferred).",
+            "Excellent communication, documentation, and stakeholder management skills.",
+            "Ability to manage multiple projects simultaneously under pressure.",
+            "Proven capability to oversee projects end-to-end with defined timelines and deliverables."
+        ],
+        "experience": [
+            "2 to 3 years",
+            "2 to 3 years",
+            "The applicants should have experience in the following business area(s): Software Company, IT Enabled Service"
+        ],
+        "additional_requirements": [],
+        "vacancy": "Not specified",
+        "location": "Location: Dhaka (Gulistan)",
+        "age": "Not found",
+        "salary": "Tk. 40000 - 45000 (Monthly)",
+        "other_benefits": [
+            "Mobile bill",
+            "Lunch Facilities: Partially Subsidize",
+            "Festival Bonus: 2"
+        ],
+        "published": "11 Dec 2025",
+        "skills": [
+            "Client Handling",
+            "Documentation",
+            "IT Support Service",
+            "Leadership and teamwork",
+            "Problemsolving skills.",
+            "Project Management/ Co-ordinator",
+            "Software Development"
+        ],
+        "category": "Other / Uncategorized"
+    },
+    {
+        "title": "SEO Specialist (Local & International SEO)",
+        "company_name": "Shakil Education Group",
+        "deadline": "Deadline:9 Jan2026",
+        "url": "https://jobs.bdjobs.com/jobdetails/?id=1438549&fcatId=8&ln=1",
+        "responsibilities": [
+            "Develop and execute international SEO strategies covering multi-country and multi-language optimization.",
+            "Implement and manage local SEO campaigns, including local keyword targeting, Google Business Profile optimization, NAP consistency, and local backlink building.",
+            "Perform technical SEO audits on custom-coded websites and collaborate with developers to implement fixes.",
+            "Manage Google Tag Manager (GTM) for event tracking, tag setup, and performance monitoring.",
+            "Configure and analyze data using Google Analytics 4 and other reporting tools to track website performance and user behavior.",
+            "Conduct detailed keyword research (global & local), SERP analysis, and competitor performance reviews.",
+            "Optimize website structure, internal linking, meta tags, schema markup, and Core Web Vitals.",
+            "Resolve crawling, indexing, and rendering issues on custom-built platforms.",
+            "Execute on-page and off-page SEO strategies relevant to international and local markets.",
+            "Prepare comprehensive monthly SEO performance reports with actionable insights.",
+            "Stay up to date with global SEO algorithm updates and search engine best practices."
+        ],
+        "employment_status": "Dhaka (PanthaPath)",
+        "education": [
+            "2 to 4 years",
+            "2 to 4 years",
+            "The applicants should have experience in the following business area(s): Immigration and Education Consultancy Service"
+        ],
+        "experience": [
+            "2–4 years of professional SEO experience, including international and local SEO.",
+            "Proven experience working on custom-coded websites (HTML, CSS, JavaScript; familiarity with back-end frameworks is a plus).",
+            "Strong knowledge of Google Tag Manager, including event tracking, tag configuration, and troubleshooting.",
+            "High proficiency in Google Analytics 4, data interpretation, and performance reporting.",
+            "Deep understanding of technical SEO, including site speed, structured data, canonicalization, and index management.",
+            "Experience with SEO tools: Ahrefs, SEMrush, Screaming Frog, Google Search Console, etc.",
+            "Strong analytical skills with the ability to derive insights from data and recommend improvements.",
+            "Good communication skills, ability to collaborate with development, content, and design teams.",
+            "Experience with hreflang and multilingual SEO.",
+            "Strong understanding of schema markup and structured data.",
+            "Familiarity with CDNs, caching, and site performance optimization.",
+            "Ability to collaborate with developers on custom-coded systems.",
+            "Experience handling SEO for multiple international markets.",
+            "Basic understanding of UTM tracking, conversion tracking, and analytics funnels.",
+            "Knowledge of content optimization frameworks (EEAT, topical mapping, keyword clustering).",
+            "Experience managing large-scale technical audits using tools like Screaming Frog or Sitebulb."
+        ],
+        "additional_requirements": [],
+        "vacancy": "Not specified",
+        "location": "Location: Dhaka (PanthaPath)",
+        "age": "Not found",
+        "salary": "Tk. 40000 (Monthly)",
+        "other_benefits": [
+            "Competitive salary up to 40,000 BDT",
+            "Growth and learning opportunities",
+            "Friendly and collaborative team culture",
+            "Involvement in global SEO projects with real impact"
+        ],
+        "published": "11 Dec 2025",
+        "skills": [],
+        "category": "Marketing & Content"
+    },
+    {
+        "title": "Software Engineer (Laravel, Vue.Js)",
+        "company_name": "2A IT",
+        "deadline": "Deadline:21 Dec2025",
+        "url": "https://jobs.bdjobs.com/jobdetails/?id=1438865&fcatId=8&ln=1",
+        "responsibilities": [
+            "Solid working knowledge of PHP for Laravel Developer.·",
+            "Expert in frontend web development including HTML5, CSS3, JavaScript, and web APIs.",
+            "Solid working knowledge of JavaScript (ES6+) and Typescript.",
+            "Design, Write and Test solid code within a web application using React JS, Vue JS, Node JS/Laravel.·",
+            "Solid understanding of React & Vue best practices, style guide, testing, and component architecture.·",
+            "Create reusable, scalable, maintainable, and well-tested solutions.·",
+            "Capable of owning projects through design, implementation, and deployment.·",
+            "Effectively prioritize workload to meet deadlines and work objectives.·",
+            "Should have experience on MVC· Must have clear understanding in OOP, SQL, Database Design, HTTP Request/Response life cycle·",
+            "Good understanding of Clean Code, Architectural & Software Design Patterns, API Design, Caching is a plus·",
+            "Gather requirements, write functional/technical specifications and communicate them effectively."
+        ],
+        "employment_status": "Not found",
+        "education": [
+            "Bachelor in Engineering (BEngg) in Computer Science & Engineering"
+        ],
+        "experience": [],
+        "additional_requirements": [],
+        "vacancy": "Not specified",
+        "location": "Location: Dhaka",
+        "age": "Not found",
+        "salary": "Negotiable",
+        "other_benefits": [
+            "T/A,Mobile bill,Tour allowance",
+            "Lunch Facilities: Full Subsidize",
+            "Festival Bonus: 2"
+        ],
+        "published": "11 Dec 2025",
+        "skills": [
+            "Laravel",
+            "PHP (OOP)"
+        ],
+        "category": "Software Engineering"
+    },
+    {
+        "title": "Senior Flutter Developer",
+        "company_name": "Quickmas Technologies",
+        "deadline": "Deadline:21 Dec2025",
+        "url": "https://jobs.bdjobs.com/jobdetails/?id=1438835&fcatId=8&ln=1",
+        "responsibilities": [
+            "Lead end-to-end mobile app development ( design → deployment).",
+            "Build high-performance Flutter apps for iOS and Android.",
+            "Create intuitive UI/UX designs using Figma/Adobe XD.",
+            "Collaborate with product and design.",
+            "Conduct UX research, testing, and performance optimisation.",
+            "Develop custom widgets, animations, and reusable components.",
+            "Maintain design systems and consistent UI standards.",
+            "Stay updated with latest Flutter and UI/UX trends."
+        ],
+        "employment_status": "Part Time",
+        "education": [
+            "Bachelor of Computer Application (BCA) in Computer Applications",
+            "Diploma in Computer in Computer Applications"
+        ],
+        "experience": [
+            "At least 3 years",
+            "At least 3 years",
+            "The applicants should have experience in the following business area(s): Software Company"
+        ],
+        "additional_requirements": [
+            "Age 26 to 36 years",
+            "Must have experience with Google Maps and location services.",
+            "Strong knowledge of Android UI design principles, patterns, and best practices.",
+            "Good knowledge in API development & implementation.",
+            "Proficiency in integrating Firebase services like Firestore, Authentication, Cloud Functions, etc. into Flutter apps.",
+            "Knowledge of SQLite, MySQL, or other databases commonly used with Flutter.",
+            "Familiar with debugging tools and writing unit tests for Flutter applications."
+        ],
+        "vacancy": "Not specified",
+        "location": "Location: Dhaka (Uttara Sector 3)",
+        "age": "26 to 36 years",
+        "salary": "Negotiable",
+        "other_benefits": [],
+        "published": "11 Dec 2025",
+        "skills": [],
+        "category": "Software Engineering"
+    },
+    {
+        "title": "AI Trainer (Artificial Intelligence & Machine Learning)",
+        "company_name": "The Everest IT",
+        "deadline": "Deadline:20 Dec2025",
+        "url": "https://jobs.bdjobs.com/jobdetails/?id=1438738&fcatId=8&ln=1",
+        "responsibilities": [
+            "Deliver structured training sessions on Artificial Intelligence, Machine Learning, Data Analytics, and AI Tools.",
+            "Conduct classes following the approved curriculum and training methodology of the project.",
+            "Design lesson plans, practical sessions, and real-world AI project demonstrations.",
+            "Provide hands-on guidance to learners on AI tools (e.g., Python, TensorFlow, Scikit-learn, LLM tools, prompt engineering).",
+            "Assess learner performance through quizzes, practical assignments, and class activities.",
+            "Prepare progress reports, training documentation, and attendance records as per project requirements.",
+            "Support trainees in completing their final assessment, project work, and skill certification.",
+            "Maintain discipline and ensure an engaging, inclusive and productive learning environment.",
+            "Collaborate with project coordinators, admin team, and monitoring bodies.",
+            "Participate in orientation, training-of-trainers (ToT), and evaluation workshops when required."
+        ],
+        "employment_status": "Dhaka (Shewrapara)",
+        "education": [
+            "Bachelor/Honors"
+        ],
+        "experience": [
+            "1 to 5 years",
+            "1 to 5 years",
+            "The applicants should have experience in the following business area(s): University, Training Institutes, Software Company, IT Enabled Service, BPO/ Data Entry Firm, E-commerce"
+        ],
+        "additional_requirements": [],
+        "vacancy": "Not specified",
+        "location": "Location: Dhaka (Shewrapara)",
+        "age": "Not found",
+        "salary": "Negotiable",
+        "other_benefits": [],
+        "published": "10 Dec 2025",
+        "skills": [
+            "Artificial intelligence (AI)",
+            "Machine Learning",
+            "Training & Development"
+        ],
+        "category": "Data & AI"
+    },
+    {
+        "title": "Software Engineer - Node.js, React, Mongo DB",
+        "company_name": "Iconic Unity Group",
+        "deadline": "Deadline:9 Jan2026",
+        "url": "https://jobs.bdjobs.com/jobdetails/?id=1438690&fcatId=8&ln=1",
+        "responsibilities": [
+            "Develop, maintain and optimize backend services using Node.js, Express.js & Prisma ORM",
+            "Build dynamic, responsive user interfaces using ReactJS,NextJS & TypeScript",
+            "Design and optimize SQL database schemas in MongoDB,MySQL",
+            "Cloud Deployment and Knowledge about AWS.",
+            "Integrate secure authentication and authorization using JWT",
+            "Implement online payment systems using SSLCommerz",
+            "Deploy applications and troubleshoot issues on Linux/Nginx servers",
+            "Collaborate with the team to produce high-quality, scalable software",
+            "Write clean, maintainable code with proper documentation"
+        ],
+        "employment_status": "Not found",
+        "education": [
+            "Bachelor of Science (BSc) in Computer Engineering",
+            "Bachelor of Science (Pass)",
+            "Bachelor’s degree in CSE / Software Engineering / ICT"
+        ],
+        "experience": [
+            "At least 2 years",
+            "At least 2 years",
+            "The applicants should have experience in the following business area(s): Software Company"
+        ],
+        "additional_requirements": [
+            "Knowledge of SSLCommerz Payment Gateway Integration",
+            "Strong understanding of RESTful APIs, modern JavaScript/ES6+",
+            "Experience with cloud platforms (AWS, Azure, or GCP)",
+            "Basic experience configuring Nginx web servers",
+            "Understanding of Git/GitHub workflows",
+            "Strong proficiency in Node.js & Express.js",
+            "Experience in TypeScript (mandatory)",
+            "Experience with MongoDB, MySQL Database,",
+            "Working knowledge of Prisma ORM",
+            "Experience implementing JWT-based Authentication & Authorization",
+            "Ability to work with REST APIs",
+            "Strong skills in React.js, NextJS and TypeScript",
+            "Routing experience with React Router",
+            "Experience with Radix UI or similar component libraries",
+            "Good understanding of responsive UI/UX practices"
+        ],
+        "vacancy": "Not specified",
+        "location": "Location: Dhaka (Motijheel)",
+        "age": "Not found",
+        "salary": "Negotiable",
+        "other_benefits": [
+            "Salary Review: Yearly",
+            "Festival Bonus: 2",
+            "Yearly Increment & Festival Bonuses",
+            "Friendly work environment",
+            "Learning & career growth opportunities"
+        ],
+        "published": "10 Dec 2025",
+        "skills": [
+            "AWS",
+            "AWSAzure Cloud Administration",
+            "Express.js",
+            "Node.js",
+            "React | NodeJS | mongoDB | mongoose | JavaScript | Github | Git",
+            "REST APIs",
+            "TypeScript"
+        ],
+        "category": "Software Engineering"
+    },
+    {
+        "title": "WordPress Plugin Developer",
+        "company_name": "NextCode Solutions",
+        "deadline": "Deadline:25 Dec2025",
+        "url": "https://jobs.bdjobs.com/jobdetails/?id=1438402&fcatId=8&ln=1",
+        "responsibilities": [
+            "Develop new WordPress plugins following best practices",
+            "Maintain and improve existing plugins, including bug fixes and performance enhancements",
+            "Build new features and extensions for existing plugins",
+            "Collaborate with designers, front-end developers, and other team members to deliver seamless user experiences",
+            "Troubleshoot and resolve complex technical issues related to WordPress & WooCommerce plugins"
+        ],
+        "employment_status": "Rajshahi",
+        "education": [
+            "At least 1 year",
+            "At least 1 year",
+            "The applicants should have experience in the following business area(s): Software Company, IT Enabled Service"
+        ],
+        "experience": [
+            "Senior: 3+ years of hands-on WordPress plugin development experience",
+            "Mid-Level: 1+ year of hands-on WordPress plugin development experience",
+            "Strong proficiency in WordPress & WooCommerce (Hooks, filters, REST API, Meta data, Custom post types).",
+            "Excellent understanding of PHP OOP principles and common design patterns.",
+            "Comfortable working with HTML, CSS, JavaScript, and jQuery",
+            "Basic experience using Git for version control",
+            "Strong problem-solving skills and attention to detail",
+            "Ability to communicate clearly and work well in a team environment",
+            "Experience with Gutenberg block development",
+            "Basic understanding of ReactJS",
+            "Comfortable using AI-assisted development tools, including CLI-based AI tools like Codex CLI and Claude Code (a big plus)",
+            "Experience building custom Admin UI using Tailwind, Bootstrap, or similar"
+        ],
+        "additional_requirements": [],
+        "vacancy": "Not specified",
+        "location": "Location: Rajshahi",
+        "age": "Not found",
+        "salary": "Tk. 30000 - 60000 (Monthly)",
+        "other_benefits": [
+            "Performance bonus",
+            "Salary Review: Yearly",
+            "Festival Bonus: 2"
+        ],
+        "published": "10 Dec 2025",
+        "skills": [
+            "PHP",
+            "PHP (Laravel)",
+            "PHP (OOP)",
+            "WordPress",
+            "WordPress Developer",
+            "Wordpress Plugin Development"
+        ],
+        "category": "Software Engineering"
+    },
+    {
+        "title": "Senior SQA Engineer (Automation Must)",
+        "company_name": "LEADS Corporation Limited",
+        "deadline": "Deadline:20 Dec2025",
+        "url": "https://jobs.bdjobs.com/jobdetails/?id=1439001&fcatId=8&ln=1",
+        "responsibilities": [
+            "Automates test coverage per platform capabilities and requirements. Establishes and maintains continuous build and integration testing on applicable platforms and assists with manual system and integration testing efforts.",
+            "Operates in both waterfall and Agile Software Development Lifecycle (SDLC) processes and methodologies.",
+            "Setting up test environments, crafting test plans, developing and executing test cases/scenarios/use cases.",
+            "Working proficiency of at least one programming language.",
+            "Develop test plans for each product release and define test cases to support the test plan.",
+            "Work with developers to provide additional research and debugging and resolving issues",
+            "Lead and automate end-to-end (UI/API), regression, ETL and performance tests.",
+            "Identify risks, track, investigate and resolve any issues.",
+            "Prepare automation test scripts using Cypress & JMeter testing tool.",
+            "Check/Review the test cases & maintain traceability with requirements.",
+            "Log the outcome of test execution and report defects against specific versions.",
+            "Ability to work effectively under pressure and handle multiple projects.",
+            "Strong leadership and mentoring skills.",
+            "Repeat test activities for each bug (Regression & Confirmation/retesting testing).",
+            "Attend daily standing meeting.",
+            "Conduct Organizational Training across the year.",
+            "Developed and maintained automated CI/CD pipelines for code development and build.",
+            "Proficient in version control systems, especially Git.",
+            "Creating and maintaining development platforms and processes that enable automation of builds and releases through DevOps",
+            "Collaborating with development, infrastructure, and QA teams to drive productivity, repeatability, and quality improvements through DevOps."
+        ],
+        "employment_status": "Not found",
+        "education": [
+            "Bachelor of Science (BSc) in Computer Science & Engineering",
+            "Preferred Professional Certification: ISTQB Certifications"
+        ],
+        "experience": [
+            "At least 4 years",
+            "At least 4 years",
+            "The applicants should have experience in the following business area(s): Software Company, IT Enabled Service"
+        ],
+        "additional_requirements": [
+            "Need someone with good knowledge in QA engineering, software tester, or software test engineer, a quality assurance related work experience.",
+            "Strong interpersonal skills.",
+            "Ability to communicate clearly and concisely, both orally and in writing.",
+            "Strong analytical and problem-solving skills.",
+            "Proficiency in programming languages.",
+            "Ability to quickly learn new application systems and technologies.",
+            "Knowledge of basic project management framework and methodology.",
+            "Collaborate with development and product teams to identify and resolve defects.",
+            "Requires Strong Systems Life Cycle methodology experience.",
+            "Requires excellent oral, written, and presentation skills.",
+            "Experience in interpretation of functional requirements.",
+            "Development of technical design specifications for complex projects.",
+            "Expert in industry standard development methodologies.",
+            "Requires strong problem solving and analytic skills to identify business bugs in software."
+        ],
+        "vacancy": "Not specified",
+        "location": "Location: Dhaka",
+        "age": "Not found",
+        "salary": "Negotiable",
+        "other_benefits": [
+            "T/A,Mobile bill,Weekly 2 holidays,Provident fund,Gratuity",
+            "Lunch Facilities: Full Subsidize",
+            "Salary Review: Yearly",
+            "Festival Bonus: 2"
+        ],
+        "published": "11 Dec 2025",
+        "skills": [
+            "API Testing",
+            "Automation",
+            "Manual Testing",
+            "Software Testing",
+            "SQA Engineer"
+        ],
+        "category": "QA & Testing"
     }
 ]

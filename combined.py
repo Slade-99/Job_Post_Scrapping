@@ -1,7 +1,6 @@
 import json
 from thefuzz import process, fuzz
 
-# 1. PASTE THE MAPPING HERE (Using the dictionary I created above)
 CATEGORY_MAPPING = {
     "Software Engineering": [
         'software developer',"software engineer","developer", "programmer", "backend", "frontend",
@@ -52,18 +51,16 @@ def assign_category(job_title):
     best_category = "Uncategorized"
     highest_score = 0
     
-    # Clean the title slightly for better matching
+   
     clean_title = str(job_title).lower()
 
     for category, keywords in CATEGORY_MAPPING.items():
-        # process.extractOne finds the best match from the list of keywords
-        # scorer=fuzz.token_set_ratio handles partial matches and word reordering well
-        # e.g. "Senior Python Developer" matches "Python" perfectly
+
         match = process.extractOne(clean_title, keywords, scorer=fuzz.token_set_ratio)
         
         if match:
             score = match[1]
-            # If this category has a better match than previous ones, store it
+            
             if score > highest_score:
                 highest_score = score
                 best_category = category
@@ -75,7 +72,7 @@ def assign_category(job_title):
     return best_category
 
 def run_pipeline():
-    # 2. LOAD FILES
+    
     try:
         with open('BRAC_Project/Job_Post_Scrapping/BDJobs/job_details.json', 'r', encoding='utf-8') as f1:
             data1 = json.load(f1)
@@ -85,16 +82,15 @@ def run_pipeline():
         print("Error: Could not find file1.json or file2.json")
         return
 
-    # Combine lists
+    
     combined_jobs = data1 + data2
     print(f"Processing {len(combined_jobs)} jobs...")
 
-    # 3. CATEGORIZE
+    
     processed_data = []
     
     for job in combined_jobs:
-        # We primarily categorize based on Title as it is most accurate for keywords
-        # You can append job['description'] if titles are vague
+
         title = job.get('title', '') or job.get('job_title', '') 
         
         category = assign_category(title)
@@ -102,10 +98,7 @@ def run_pipeline():
         job['category'] = category
         processed_data.append(job)
         
-        # Optional: Print to console to verify it's working
-        # print(f"Mapped '{title}' -> {category}")
 
-    # 4. SAVE
     with open('BRAC_Project/Job_Post_Scrapping/jobs.json', 'w', encoding='utf-8') as out_file:
         json.dump(processed_data, out_file, indent=2, ensure_ascii=False)
 

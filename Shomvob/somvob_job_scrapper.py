@@ -59,19 +59,19 @@ def clean_html_to_list(html_content):
     if not html_content:
         return []
     
-    # Pre-process to ensure lines split correctly
+
     html_content = str(html_content).replace("<br>", "\n").replace("<br/>", "\n").replace("</p>", "\n")
     soup = BeautifulSoup(html_content, "html.parser")
     items = []
     
-    # 1. Try finding list items <li>
+
     li_tags = soup.find_all('li')
     if li_tags:
         for li in li_tags:
             text = li.get_text(strip=True)
             if text: items.append(text)
     else:
-        # 2. Split paragraph text by newlines
+
         text_block = soup.get_text("\n")
         items = [line.strip() for line in text_block.split('\n') if len(line.strip()) > 2]
 
@@ -90,16 +90,15 @@ def get_salary_visual(soup):
 def get_company_visual(soup):
     """Robust fallback for company name."""
     try:
-        # 1. Try the Logo Alt Text (Most reliable on Shomvob)
+
         logo = soup.find("img", class_=lambda x: x and "object-contain" in x)
         if logo and logo.get("alt"):
             return logo.get("alt")
             
-        # 2. Try text under title (Secondary color text)
-        # Find the Job Title first (usually bold and large)
+
         title_node = soup.find("div", class_=re.compile(r"font-bold"))
         if title_node:
-            # The company is usually the next div with 'Secondary' text color
+
             company_node = title_node.find_next("div", class_=re.compile(r"Text-Secondary"))
             if company_node:
                 return company_node.get_text(strip=True)
@@ -137,18 +136,18 @@ def scrape_details():
             soup = BeautifulSoup(page_source, "html.parser")
             schema = extract_json_ld(soup)
             
-            # --- Visual Grid Helpers ---
+            
             grid_vacancy = get_visual_grid_data(soup, "Vacancy")
             grid_experience = get_visual_grid_data(soup, "Experience")
             grid_education = get_visual_grid_data(soup, "Education")
             
-            # --- 1. Published Date (Todays Date) ---
+            
             published_raw = datetime.now().strftime("%d %b %Y")
 
-            # --- 2. Responsibilities Logic (Fixed) ---
+            
             responsibilities_list = []
             
-            # Try Schema first
+            
             resp_html = schema.get('responsibilities', '') 
             if not resp_html: 
                 resp_html = schema.get('description', '')
@@ -156,26 +155,26 @@ def scrape_details():
             if resp_html:
                 responsibilities_list = clean_html_to_list(resp_html)
             
-            # If still empty, try Visual Search for "Responsibilities" header
+            
             if not responsibilities_list:
                 try:
                     resp_header = soup.find(lambda tag: tag.name == "div" and "Responsibilities" in tag.get_text())
                     if resp_header:
-                        # The content is usually in the next sibling div
+
                         content_div = resp_header.find_next_sibling("div")
-                        if not content_div: # Sometimes it's inside a parent container structure
+                        if not content_div: 
                             content_div = resp_header.parent.find_next_sibling("div")
                         if content_div:
                             responsibilities_list = clean_html_to_list(str(content_div))
                 except: pass
 
-            # --- 3. Company Logic (Fixed) ---
+
             company = schema.get('hiringOrganization', {}).get('name')
-            # If schema misses it or gives generic name, use visual extraction
+
             if not company or company.lower() == "shomvob": 
                 company = get_company_visual(soup)
 
-            # --- 4. Salary Logic ---
+
             salary = "Negotiable"
             if schema.get('baseSalary'):
                 try:
@@ -190,7 +189,7 @@ def scrape_details():
                 vis_sal = get_salary_visual(soup)
                 if vis_sal: salary = vis_sal
 
-            # --- Benefits ---
+
             benefits_list = schema.get('jobBenefits', [])
             if not benefits_list:
                 ben_header = soup.find(string=re.compile("Benefits"))
@@ -227,7 +226,7 @@ def scrape_details():
 
     driver.quit()
 
-    # Save
+   
     with open(OUTPUT_FILE, 'w', encoding='utf-8') as f:
         json.dump(all_job_data, f, indent=4, ensure_ascii=False)
     print(f"Done! Saved {len(all_job_data)} jobs to {OUTPUT_FILE}")
@@ -259,18 +258,18 @@ def scrape_details_memory(links):
             soup = BeautifulSoup(page_source, "html.parser")
             schema = extract_json_ld(soup)
             
-            # --- Visual Grid Helpers ---
+
             grid_vacancy = get_visual_grid_data(soup, "Vacancy")
             grid_experience = get_visual_grid_data(soup, "Experience")
             grid_education = get_visual_grid_data(soup, "Education")
             
-            # --- 1. Published Date (Todays Date) ---
+
             published_raw = datetime.now().strftime("%d %b %Y")
 
-            # --- 2. Responsibilities Logic (Fixed) ---
+
             responsibilities_list = []
             
-            # Try Schema first
+
             resp_html = schema.get('responsibilities', '') 
             if not resp_html: 
                 resp_html = schema.get('description', '')
@@ -278,26 +277,26 @@ def scrape_details_memory(links):
             if resp_html:
                 responsibilities_list = clean_html_to_list(resp_html)
             
-            # If still empty, try Visual Search for "Responsibilities" header
+
             if not responsibilities_list:
                 try:
                     resp_header = soup.find(lambda tag: tag.name == "div" and "Responsibilities" in tag.get_text())
                     if resp_header:
-                        # The content is usually in the next sibling div
+                        
                         content_div = resp_header.find_next_sibling("div")
-                        if not content_div: # Sometimes it's inside a parent container structure
+                        if not content_div: 
                             content_div = resp_header.parent.find_next_sibling("div")
                         if content_div:
                             responsibilities_list = clean_html_to_list(str(content_div))
                 except: pass
 
-            # --- 3. Company Logic (Fixed) ---
+
             company = schema.get('hiringOrganization', {}).get('name')
-            # If schema misses it or gives generic name, use visual extraction
+            
             if not company or company.lower() == "shomvob": 
                 company = get_company_visual(soup)
 
-            # --- 4. Salary Logic ---
+            
             salary = "Negotiable"
             if schema.get('baseSalary'):
                 try:
@@ -312,7 +311,7 @@ def scrape_details_memory(links):
                 vis_sal = get_salary_visual(soup)
                 if vis_sal: salary = vis_sal
 
-            # --- Benefits ---
+            
             benefits_list = schema.get('jobBenefits', [])
             if not benefits_list:
                 ben_header = soup.find(string=re.compile("Benefits"))

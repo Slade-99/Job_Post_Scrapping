@@ -7,7 +7,7 @@ INPUT_JSON = "BRAC_Project/Job_Post_Scrapping/Shomvob/links.json"
 OUT_IT = "BRAC_Project/Job_Post_Scrapping/Shomvob/filtered.json"
 OUT_NOT = "non_it.json"
 
-# seed keywords for IT (expand as needed)
+# seed keywords for IT 
 IT_KEYWORDS = [
     "software", "developer", "programmer", "backend", "frontend",
     "fullstack", "devops", "data scientist", "data scientist", "machine learning",
@@ -35,11 +35,11 @@ IT_KEYWORDS = [
 ]
 
 # thresholds
-KEYWORD_MATCH_MIN = 1            # at least 1 exact keyword hit
+KEYWORD_MATCH_MIN = 1         # at least 1 exact keyword hit
 FUZZY_SCORE_THRESHOLD = 80      # fuzzy match threshold (0-100)
 COMBINED_SCORE_THRESHOLD = 0.21  # final combined score threshold (0-1)
 
-# ---------- helper functions ----------
+
 def normalize(text):
     if not text:
         return ""
@@ -65,15 +65,13 @@ def fuzzy_best_score(text, keywords):
     return best, best_kw
 
 
-
-
 def filter_it_jobs_memory(jobs):
     it_list = []
     non_it_list = []
 
     for j in jobs:
         title = j.get("title", "") or ""
-        desc = j.get("description", "") or ""   # if you scraped description
+        desc = j.get("description", "") or ""   
         text = " ".join([title, desc])
 
         hits = keyword_hits(text, IT_KEYWORDS)
@@ -82,8 +80,8 @@ def filter_it_jobs_memory(jobs):
         # combine heuristic: prefer exact keyword hits but also accept fuzzy high score
         score = 0.0
         if len(hits) >= KEYWORD_MATCH_MIN:
-            score += 0.7  # boost for exact keywords
-        # scale fuzzy to 0-0.3
+            score += 0.7 
+        
         score += (fuzzy_score / 100.0) * 0.3
 
         j["_heuristic"] = {

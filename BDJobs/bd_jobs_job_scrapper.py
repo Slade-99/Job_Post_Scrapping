@@ -26,23 +26,28 @@ def extract_list_items(driver, parent_xpath):
         return []
 
 # --- 1. Setup Headless Browser and Anti-Detection Options ---
-options = Options()
-options.add_argument("--headless")  # Run browser in the background
-options.add_argument("--window-size=1920,1080") # Specify window size for headless
-options.add_argument("--log-level=3") # Suppress console logs
-options.add_argument("user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36")
+def setup_driver():
+    options = Options()
+    options.add_argument("--headless=new")  # Updated headless argument
+    options.add_argument("--window-size=1920,1080")
+    options.add_argument("--log-level=3")
+    options.add_argument("--no-sandbox")
+    options.add_argument("--disable-dev-shm-usage")
+    options.add_argument("user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36")
 
-service = ChromeService(executable_path=ChromeDriverManager().install())
-driver = webdriver.Chrome(service=service, options=options)
-
+    service = ChromeService(executable_path=ChromeDriverManager().install())
+    driver = webdriver.Chrome(service=service, options=options)
+    return driver
 
 
 
 def scrape_details_memory(links):
+    driver = setup_driver()
     all_job_details = []
 
     # --- 3. Loop Through Links and Scrape Details ---
     for i, job in enumerate(links):
+        url = job
         url = job.get('link')
         if not url:
             continue
@@ -52,19 +57,19 @@ def scrape_details_memory(links):
         driver.get(url)
         
         try:
-            # Use a more reliable container ID for the wait
-            wait = WebDriverWait(driver, 15) # Increased wait time for reliability
+            
+            wait = WebDriverWait(driver,30) 
             wait.until(EC.visibility_of_element_located(((By.ID, "sum"))))
             
             # --- Data Extraction ---
-            # Using the helper function to get proper lists
+
             responsibilities = extract_list_items(driver, "//*[@id='responsibilitiesSection']")
             education = extract_list_items(driver, "//*[@id='requirements']/div[1]")
             experience = extract_list_items(driver, "//*[@id='requirements']/div[2]")
             add_req = extract_list_items(driver, "//*[@id='requirements']/div[3]")
             other_benefits = extract_list_items(driver, "//*[@id='salary']")
             
-            # Using more robust XPaths
+
             try:
                 vacancy = driver.find_element(By.XPATH, "//strong[contains(text(), 'Vacancy')]/following-sibling::span").text
             except NoSuchElementException:
@@ -86,7 +91,7 @@ def scrape_details_memory(links):
             except NoSuchElementException:
                 employment_status = "Not found"
             
-            # This part for randomly ordered info remains the same
+
             published, age, salary, location = "Not found", "Not found", "Not found", "Not found"
             info_elements = driver.find_elements(By.XPATH, '//*[@id="allSection"]/ul/div')
             for info_text in [element.text for element in info_elements]:
@@ -100,7 +105,7 @@ def scrape_details_memory(links):
                 elif "location" in text_lower:
                     location = info_text.replace("location:", "").strip()
 
-            # Combine all data, including from the source JSON
+            # Combine all data
             job_data = {
                 'title': job.get('title'),
                 'company_name': company_name,
@@ -121,12 +126,12 @@ def scrape_details_memory(links):
             }
             all_job_details.append(job_data)
             
-            # Use a randomized delay to appear more human-like
+
             time.sleep(random.uniform(6, 13))
 
         except (TimeoutException, Exception) as e:
             print(f"Could not process {url}. Error: {e}")
 
-    # --- 4. Clean up ---
+    
     driver.quit()
     return all_job_details

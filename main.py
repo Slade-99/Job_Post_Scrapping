@@ -4,10 +4,6 @@ import random
 import logging
 import os
 from datetime import datetime, timedelta
-
-# --- IMPORT YOUR EXISTING MODULES ---
-# Ensure these files are in the same directory or properly referenced
-# You might need to slightly refactor your scripts to expose these functions
 from BDJobs import bd_jobs_job_scrapper
 from BDJobs import bd_jobs_link_scrapper
 from Shomvob import somvob_filtering
@@ -16,7 +12,7 @@ from Shomvob import somvob_job_scrapper
 import combined
 
 # --- CONFIGURATION ---
-DATABASE_FILE = "jobs.json" # This holds ALL historical data
+DATABASE_FILE = "jobs.json"
 LOG_FILE = "service_log.txt"
 START_HOUR = 1  # 1 AM
 END_HOUR = 5    # 5 AM 
@@ -41,6 +37,7 @@ def load_database():
     except json.JSONDecodeError:
         return []
 
+
 def save_to_database(new_jobs):
     current_db = load_database()
     updated_db = current_db + new_jobs
@@ -56,7 +53,6 @@ def get_existing_urls(database):
 def run_pipeline():
     logging.info("Starting Daily Scraping Pipeline...")
     
-    # 1. Load History (To avoid redundancy)
     existing_urls = get_existing_urls(load_database())
     logging.info(f"Loaded {len(existing_urls)} existing jobs from database.")
 
@@ -65,7 +61,7 @@ def run_pipeline():
     # ==========================
     logging.info("--- Phase 1: Shomvob ---")
     
-    all_shomvob_candidates = somvob_link_scrapper.scrape_shomvob_pagination(max_pages=22) 
+    all_shomvob_candidates = somvob_link_scrapper.scrape_shomvob_pagination(max_pages=6) 
     
     if not all_shomvob_candidates:
         logging.warning("No links found for Shomvob.")
@@ -80,7 +76,7 @@ def run_pipeline():
         ]
         logging.info(f"Shomvob: Found {len(it_candidates)} IT jobs. {len(shomvob_links_to_process)} are NEW.")
 
-    # D. Scrape Details for NEW links only
+    # Scrape Details for NEW links only
     shomvob_final_data = []
     if shomvob_links_to_process:
         
@@ -89,7 +85,7 @@ def run_pipeline():
 
 
     # ==========================
-    # STAGE 2: BDJOBS (Placeholder)
+    # STAGE 2: BDJOBS
     # ==========================
     logging.info("--- Phase 2: BDJobs ---")
 
@@ -104,20 +100,22 @@ def run_pipeline():
             job for job in all_bdjobs_links 
             if job.get('link') not in existing_urls
         ]
-        logging.info(f"BDJobs: Found {len(it_candidates)} IT jobs. {len(shomvob_links_to_process)} are NEW.")
+        #logging.info(f"BDJobs: Found {len(it_candidates)} IT jobs. {len(shomvob_links_to_process)} are NEW.")
 
     
     
     if all_bdjobs_candidates:
         
         bdjobs_final_data = bd_jobs_job_scrapper.scrape_details_memory(all_bdjobs_candidates)
+
+
+
     # ==========================
     # STAGE 3: MERGE & CATEGORIZE
     # ==========================
     new_jobs_batch = shomvob_final_data + bdjobs_final_data
     
     if new_jobs_batch:
-        # Apply your combined.py categorization
         for job in new_jobs_batch:
             title = job.get('title', '')
             job['category'] = combined.assign_category(title)
@@ -129,13 +127,16 @@ def run_pipeline():
 
     logging.info("Daily Pipeline Completed.")
 
+
+
+
 def get_seconds_until_next_run():
     """Calculates random time for tomorrow between START_HOUR and END_HOUR."""
     now = datetime.now()
-    # Always schedule for the next calendar day
+
     tomorrow = now + timedelta(days=1)
     
-    # Set random time window for tomorrow
+
     random_hour = random.randint(START_HOUR, END_HOUR)
     random_minute = random.randint(0, 59)
     
@@ -151,25 +152,18 @@ def get_seconds_until_next_run():
 if __name__ == "__main__":
     logging.info("Microservice Started.")
 
-    # --- STEP 1: RUN IMMEDIATELY ---
-    # This runs exactly once when you start the script
     logging.info("Executing immediate initial run...")
     try:
         run_pipeline()
     except Exception as e:
         logging.error(f"Critical Error in Initial Run: {e}")
 
-    # --- STEP 2: LOOP FOREVER (NEXT DAY & SO ON) ---
     while True:
-        # Calculate time until tomorrow's random slot
         wait_time = get_seconds_until_next_run()
         
-        # Sleep until that time
         time.sleep(wait_time)
         
-        # Wake up and run
         try:
             run_pipeline()
         except Exception as e:
             logging.error(f"Critical Error in Pipeline: {e}")
-            # Loop continues even if there is an error
