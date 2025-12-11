@@ -4,3 +4,5 @@ requests
 webdriver-manager
 rapidfuzz
 thefuzz
+pymongo[srv]
+python-dotenv

@@ -1,0 +1,26 @@
+2025-12-11 21:36:16,899 - INFO - Microservice Started.
+2025-12-11 21:36:16,899 - INFO - Executing immediate initial run...
+2025-12-11 21:36:16,899 - INFO - Starting Daily Scraping Pipeline...
+2025-12-11 21:36:33,664 - INFO - Database check: Found 267 unique existing URLs.
+2025-12-11 21:36:33,665 - INFO - --- Phase 1: Shomvob ---
+2025-12-11 21:36:33,665 - INFO - ====== WebDriver manager ======
+2025-12-11 21:36:33,731 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-11 21:36:34,040 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-11 21:36:34,278 - INFO - Driver [/home/azwad/.wdm/drivers/chromedriver/linux64/142.0.7444.175/chromedriver-linux64/chromedriver] found in cache
+2025-12-11 21:36:34,517 - INFO - Navigating to https://app.shomvob.co/all-jobs/
+2025-12-11 21:36:34,642 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(104, 'Connection reset by peer')': /session/58e93f04f8b02a79cb0c05e6ff3f2cdd
+2025-12-11 21:36:34,642 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7ffaf8ebc810>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/58e93f04f8b02a79cb0c05e6ff3f2cdd
+2025-12-11 21:36:34,642 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7ffaf8ebcd90>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/58e93f04f8b02a79cb0c05e6ff3f2cdd
+2025-12-11 21:37:36,744 - INFO - Microservice Started.
+2025-12-11 21:37:36,744 - INFO - Executing immediate initial run...
+2025-12-11 21:37:36,744 - INFO - Starting Daily Scraping Pipeline...
+2025-12-11 21:37:38,302 - INFO - Database check: Found 267 unique existing URLs.
+2025-12-11 21:37:38,302 - INFO - --- Phase 1: Shomvob ---
+2025-12-11 21:37:38,303 - INFO - ====== WebDriver manager ======
+2025-12-11 21:37:38,360 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-11 21:37:38,690 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-11 21:37:38,967 - INFO - Driver [/home/azwad/.wdm/drivers/chromedriver/linux64/142.0.7444.175/chromedriver-linux64/chromedriver] found in cache
+2025-12-11 21:37:39,200 - INFO - Navigating to https://app.shomvob.co/all-jobs/
+2025-12-11 21:37:48,079 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(104, 'Connection reset by peer')': /session/b03cadfdfac866b52c11c85888ea1ebe
+2025-12-11 21:37:48,079 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x70c4ea245450>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/b03cadfdfac866b52c11c85888ea1ebe
+2025-12-11 21:37:48,079 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x70c4e8afe9d0>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/b03cadfdfac866b52c11c85888ea1ebe

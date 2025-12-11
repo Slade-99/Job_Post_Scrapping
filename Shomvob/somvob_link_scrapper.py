@@ -80,7 +80,7 @@ def scrape_shomvob_pagination(max_pages=3, out_file="BRAC_Project/Job_Post_Scrap
     try:
         logging.info(f"Navigating to {BASE_URL}")
         driver.get(BASE_URL)
-        time.sleep(3)
+        time.sleep(60)
 
         for page_num in range(1, max_pages + 1):
             logging.info(f"--- Processing Page {page_num}/{max_pages} ---")
